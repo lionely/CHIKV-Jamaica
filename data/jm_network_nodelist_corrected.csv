@@ -1,0 +1,400 @@
+Id,Label,timeset,lat,long,parish,population,modularity_class,Degree
+Above Rocks,Above Rocks,,18.1089,-76.8772,Saint Catherine,"<[3.0, 263.0]>",2,23
+Annotto Bay,Annotto Bay,,18.2703,-76.7706,Saint Mary,"<[5.0, 468.0]>",2,15
+Bog Walk,Bog Walk,,18.1,-77.02,Saint Catherine,"<[8.0, 794.0]>",2,19
+Constant Spring,Constant Spring,,18.05,-76.78,Saint Andrew,"<[12.0, 369.0]>",2,14
+Ewarton,Ewarton,,18.18,-77.08,Saint Catherine,"<[8.0, 742.0]>",2,13
+Gordon Town,Gordon Town,,18.05,-76.7,Saint Andrew,"<[1.0, 49.0]>",2,12
+Albert Town,Albert Town,,18.2958,-77.5414,Trelawny,"<[3.0, 389.0]>",0,18
+Alexandria,Alexandria,,18.2983,-77.3575,Saint Ann,"<[1.0, 672.0]>",0,19
+Balaclava,Balaclava,,18.1705,-77.6484,Saint Elizabeth,"<[2.0, 837.0]>",0,18
+Brown's Town,Brown's Town,,18.4,-77.36,Saint Ann,"<[6.0, 762.0]>",0,13
+Cave Valley,Cave Valley,,18.27,-77.37,Saint Ann,"<[1.0, 777.0]>",0,16
+Christiana,Christiana,,18.17,-77.49,Manchester,"<[7.0, 235.0]>",0,10
+Bamboo,Bamboo,,18.3851,-77.2662,Saint Ann,"<[3.0, 732.0]>",0,12
+Alligator Pond,Alligator Pond,,17.8711,-77.5683,Manchester,"<[1.0, 542.0]>",0,12
+Bull Savanna,Bull Savanna,,17.88,-77.59,Saint Elizabeth,,0,10
+Malvern,Malvern,,17.97,-77.72,Saint Elizabeth,"<[3.0, 262.0]>",0,6
+Mandeville,Mandeville,,18.05,-77.48,Manchester,"<[39.0, 945.0]>",0,5
+Nain,Nain,,17.97,-77.6,Saint Elizabeth,"<[2.0, 373.0]>",0,6
+Porus,Porus,,18.03,-77.42,Manchester,"<[5.0, 95.0]>",0,5
+Anchovy,Anchovy,,18.4097,-77.9339,Saint James,"<[3.0, 633.0]>",1,14
+Bethel Town,Bethel Town,,18.3,-77.95,Westmoreland,"<[2.0, 768.0]>",1,16
+Cambridge,Cambridge,,18.32,-77.89,Saint James,"<[3.0, 384.0]>",1,12
+Cascade,Cascade,,18.4,-78.1,Hanover,"<[1.0, 220.0]>",1,12
+Darliston,Darliston,,18.23,-77.97,Westmoreland,"<[1.0, 435.0]>",1,7
+Maroon Town,Maroon Town,,18.35,-77.79,Saint James,"<[2.0, 669.0]>",1,6
+Buff Bay,Buff Bay,,18.23,-76.67,Portland,"<[2.0, 596.0]>",2,12
+Guy's Hill,Guy's Hill,,18.25,-77,Saint Mary,"<[3.0, 165.0]>",2,8
+Coleyville,Coleyville,,18.22,-77.5,Manchester,"<[3.0, 320.0]>",0,7
+Lacovia,Lacovia,,18.07,-77.75,Saint Elizabeth,"<[3.0, 159.0]>",1,7
+Claremont,Claremont,,18.38,-77.17,Saint Ann,"<[2.0, 154.0]>",0,11
+Bath,Bath,,17.95,-76.35,Saint Thomas,"<[2.0, 151.0]>",2,14
+Dalvey,Dalvey,,17.9,-76.25,Saint Thomas,"<[2.0, 742.0]>",2,9
+Golden Grove,Golden Grove,,17.93,-76.27,Saint Thomas,"<[2.0, 761.0]>",2,6
+Manchioneal,Manchioneal,,18.05,-76.28,Portland,"<[2.0, 185.0]>",2,7
+Moore Town,Moore Town,,18.07,-76.43,Portland,"<[1.0, 54.0]>",2,7
+Morant Bay,Morant Bay,,17.87,-76.39,Saint Thomas,"<[9.0, 602.0]>",2,6
+Bluefields,Bluefields,,18.17,-78.03,Westmoreland,"<[2.0, 564.0]>",1,13
+Black River,Black River,,18.03,-77.86,Saint Elizabeth,"<[3.0, 675.0]>",1,13
+Brompton,Brompton,,18.06,-77.9,Saint Elizabeth,"<[1.0, 457.0]>",1,11
+Maggotty,Maggotty,,18.15,-77.77,Saint Elizabeth,"<[1.0, 359.0]>",1,6
+Croft's Hill,Croft's Hill,,18.13,-77.22,Clarendon,"<[2.0, 994.0]>",2,11
+Highgate,Highgate,,18.32,-76.87,Saint Mary,"<[5.0, 418.0]>",2,7
+Chapelton,Chapelton,,18.08,-77.27,Clarendon,"<[3.0, 930.0]>",2,15
+Frankfield,Frankfield,,18.15,-77.35,Clarendon,"<[2.0, 865.0]>",2,8
+Hayes,Hayes,,17.88,-77.25,Clarendon,"<[8.0, 447.0]>",2,11
+Clark's Town,Clark's Town,,18.42,-77.57,Trelawny,"<[3.0, 139.0]>",0,9
+Discovery Bay (Dry Harbour),Discovery Bay (Dry Harbour),,18.47,-77.39,Saint Ann,"<[2.0, 230.0]>",0,7
+Duncans,Duncans,,18.47,-77.53,Trelawny,"<[1.0, 849.0]>",0,8
+Easington,Easington,,17.92,-76.6,Saint Thomas,"<[2.0, 378.0]>",2,11
+Kingston,Kingston,,17.9833,-76.8,Kingston / St. Andrew,"<[587.0, 798.0]>",2,8
+Mavis Bank,Mavis Bank,,18.02,-76.67,Saint Andrew,"<[1.0, 756.0]>",2,8
+Falmouth,Falmouth,,18.49,-77.66,Trelawny,"<[7.0, 245.0]>",0,5
+Rio Bueno,Rio Bueno,,18.57,-77.45,Trelawny,"<[1.0, 108.0]>",0,5
+Frome,Frome,,18.3,-78.15,Westmoreland,<[900.0]>,1,11
+Grange Hill,Grange Hill,,18.37,-78.2,Westmoreland,"<[6.0, 530.0]>",1,9
+Gayle,Gayle,,18.33,-77,Saint Mary,"<[3.0, 205.0]>",2,11
+Islington,Islington,,18.32,-76.85,Saint Mary,"<[2.0, 868.0]>",2,7
+Hopewell,Hopewell,,18.25,-78.3,Hanover,"<[4.0, 268.0]>",1,7
+Little London,Little London,,18.3,-78.2,Westmoreland,"<[1.0, 848.0]>",1,6
+Lionel Town,Lionel Town,,17.8,-77.23,Clarendon,"<[4.0, 669.0]>",2,9
+May Pen,May Pen,,17.97,-77.24,Clarendon,"<[45.0, 903.0]>",2,7
+Old Harbour,Old Harbour,,17.92,-77.1,Saint Catherine,"<[17.0, 778.0]>",2,7
+Hope Bay,Hope Bay,,18.2,-76.57,Portland,"<[1.0, 569.0]>",2,6
+Lucea,Lucea,,18.44,-78.18,Hanover,"<[2.0, 6.0]>",1,6
+Kellits,Kellits,,18.17,-77.23,Clarendon,"<[2.0, 291.0]>",2,6
+Linstead,Linstead,,18.15,-77.02,Saint Catherine,"<[14.0, 114.0]>",2,5
+Old Harbour Bay,Old Harbour Bay,,17.9,-77.1,Saint Catherine,"<[5.0, 405.0]>",2,7
+Lluidas Vale,Lluidas Vale,,18.12,-77.15,Saint Catherine,"<[2.0, 161.0]>",2,6
+Lucky Hill,Lucky Hill,,18.3,-77.02,Saint Mary,<[750.0]>,2,7
+Moneague,Moneague,,18.28,-77.1,Saint Ann,"<[2.0, 880.0]>",2,5
+Montego Bay,Montego Bay,,18.4666,-77.9166,Saint James,"<[96.0, 488.0]>",1,5
+Negril,Negril,,18.32,-78.33,Westmoreland,"<[4.0, 184.0]>",1,5
+Ocho Rios,Ocho Rios,,18.42,-77.11,Saint Ann,"<[8.0, 189.0]>",2,6
+Oracabessa,Oracabessa,,18.47,-76.93,Saint Mary,"<[4.0, 66.0]>",2,5
+Osbourne Store,Osbourne Store,,17.97,-77.33,Clarendon,"<[3.0, 390.0]>",2,5
+Petersfield,Petersfield,,18.25,-78.07,Westmoreland,"<[2.0, 45.0]>",1,5
+Point Hill,Point Hill,,18.08,-77.1,Saint Catherine,"<[3.0, 651.0]>",2,5
+Port Antonio,Port Antonio,,18.16,-76.38,Portland,"<[13.0, 246.0]>",2,4
+Port Maria,Port Maria,,18.37,-76.89,Saint Mary,"<[7.0, 651.0]>",2,5
+Port Royal,Port Royal,,17.93,-76.85,Kingston,"<[3.0, 4.0]>",2,5
+Portmore,Portmore,,17.9499,-76.8799,Saint Catherine,"<[90.0, 138.0]>",2,5
+Race Course,Race Course,,17.83,-77.28,Clarendon,"<[2.0, 589.0]>",2,5
+Richmond,Richmond,,18.23,-76.9,Saint Mary,"<[1.0, 984.0]>",2,5
+Riversdale,Riversdale,,18.15,-76.97,Saint Catherine,"<[2.0, 791.0]>",2,5
+Rocky Point,Rocky Point,,17.77,-77.27,Clarendon,"<[2.0, 744.0]>",2,5
+Runaway Bay,Runaway Bay,,18.45,-77.33,Saint Ann,"<[5.0, 655.0]>",0,5
+Saint Ann's Bay,Saint Ann's Bay,,18.44,-77.22,Saint Ann,"<[10.0, 961.0]>",0,5
+Sandy Bay,Sandy Bay,,18.45,-78.1,Hanover,"<[4.0, 476.0]>",1,5
+Sanguinetti,Sanguinetti,,18.1,-77.34,Clarendon,"<[3.0, 900.0]>",0,5
+Santa Cruz,Santa Cruz,,18.07,-77.72,Saint Elizabeth,"<[8.0, 144.0]>",1,5
+Savanna-la-Mar,Savanna-la-Mar,,18.16,-77.95,Westmoreland,"<[16.0, 553.0]>",1,5
+Seaford Town,Seaford Town,,18.15,-77.54,Westmoreland,"<[4.0, 108.0]>",0,5
+Seaforth,Seaforth,,17.93,-76.45,Saint Thomas,"<[4.0, 108.0]>",2,5
+Siloah,Siloah,,18.17,-77.73,Saint Elizabeth,"<[2.0, 701.0]>",1,5
+Southfield,Southfield,,17.88,-77.67,Saint Elizabeth,"<[2.0, 671.0]>",0,5
+Spanish Town,Spanish Town,,17.9958,-76.9551,Saint Catherine,"<[92.0, 383.0]>",2,5
+Stony Hill,Stony Hill,,18.08,-76.78,Saint Andrew,"<[8.0, 244.0]>",2,5
+Trinity Ville,Trinity Ville,,17.95,-76.53,Saint Thomas,"<[2.0, 614.0]>",2,5
+Ulster Spring,Ulster Spring,,18.32,-77.52,Trelawny,"<[1.0, 391.0]>",0,5
+Wakefield,Wakefield,,18.42,-77.72,Trelawny,"<[2.0, 724.0]>",0,5
+White House,White House,,18.08,-77.97,Westmoreland,"<[3.0, 157.0]>",1,5
+Williamsfield,Williamsfield,,18.07,-77.48,Manchester,"<[2.0, 800.0]>",0,5
+Yallahs,Yallahs,,17.87,-76.57,Saint Thomas,"<[6.0, 902.0]>",2,5
+Grantham,Grantham,,17.955718,-77.240515,Clarendon,,3,10
+Mineral Heights,Mineral Heights,,17.942157,-77.23333,Clarendon,,3,9
+May Pen Proper,May Pen Proper,,17.971896,-77.243044,Clarendon,,3,8
+Longwood,Longwood,,17.813019,-77.280742,Clarendon,,3,5
+Kitson Town,Kitson Town,,18.018148,-77.052309,Saint Catherine,,3,5
+St. John's West,St. John's West,,18.004432,-77.034857,Saint Catherine,,3,5
+Copse,Copse,,17.969923,-76.788615,Hanover,,4,110
+East Down Town,East Down Town,,17.970992,-76.789609,Kingston,,4,109
+Denham Town,Denham Town,,18.037052,-76.830003,Kingston,,4,114
+Central Down Town,Central Down Town,,18.017874,-76.809904,Kingston,,4,111
+Passmore Town,Passmore Town,,17.96968,-76.78126,Kingston,,4,105
+Rollington Town,Rollington Town,,17.977595,-76.76972,Kingston,,4,5
+Logwood,Logwood,,18.344818,-78.297987,Hanover,,5,46
+Cacoon,Cacoon,,18.40883,-78.202591,Hanover,,5,50
+Orange Bay,Orange Bay,,18.369958,-78.314518,Hanover,,5,37
+Kingsvale,Kingsvale,,18.386414,-78.203463,Hanover,,5,48
+Dias,Dias,,18.398245,-78.194203,Hanover,,5,29
+Jericho,Jericho,,18.429078,-78.129345,Hanover,,5,35
+Ramble,Ramble,,18.350996,-77.977434,Hanover,,5,87
+Rock Spring,Rock Spring,,18.409796,-78.133592,Hanover,,5,24
+Lucea West,Lucea West,,18.450419,-78.176394,Hanover,,5,6
+Askenish,Askenish,,18.384,-78.150467,Hanover,,5,12
+Lucea East,Lucea East,,18.450419,-78.176394,Hanover,,5,5
+Lances Bay,Lances Bay,,18.445113,-78.219844,Hanover,,5,5
+Great Valley,Great Valley,,18.396561,-78.075392,Hanover,,5,44
+Cousins Cove,Cousins Cove,,18.423351,-78.245479,Hanover,,5,5
+Success,Success,,18.365076,-78.047067,Hanover,,5,42
+Santoy,Santoy,,18.356514,-78.286054,Hanover,,5,5
+Cauldwell,Cauldwell,,18.389526,-78.244952,Hanover,,5,5
+Mount Peto,Mount Peto,,18.344065,-78.017178,Hanover,,5,34
+Maryland,Maryland,,18.387556,-78.129812,Hanover,,5,5
+Cacoon Castle,Cacoon Castle,,18.428237,-78.131552,Hanover,,5,5
+Chester Castle,Chester Castle,,18.321366,-77.970296,Hanover,,5,30
+Haddington,Haddington,,18.409771,-78.133638,Hanover,,5,5
+Pondside,Pondside,,18.396561,-78.075392,Hanover,,5,5
+March Town,March Town,,18.34504,-78.277597,Hanover,,5,5
+D'Aguilar Town/ Rennock Lodge,D'Aguilar Town/ Rennock Lodge,,17.999862,-76.817184,Kingston,,4,8
+West Down Town,West Down Town,,17.968725,-76.788471,Kingston,,4,5
+Tivoli Gardens,Tivoli Gardens,,17.974651,-76.80073,Kingston,,4,5
+Newton Square,Newton Square,,17.95984,-76.87722,Kingston,,4,6
+Kingston Gardens,Kingston Gardens,,18.024718,-76.809602,Kingston,,4,11
+Bournemouth Gardens,Bournemouth Gardens,,17.97119,-76.761065,Kingston,,4,5
+Rae Town,Rae Town,,18.017874,-76.809904,Kingston,,4,9
+Allman Town,Allman Town,,17.984597,-76.787029,Kingston,,4,5
+Manley Meadows,Manley Meadows,,17.967596,-76.768524,Kingston,,4,5
+Franklyn Town,Franklyn Town,,17.977993,-76.77549,Kingston,,4,5
+Norman Gardens,Norman Gardens,,17.979702,-76.758179,Kingston,,4,5
+Fletchers Land,Fletchers Land,,17.979454,-76.791383,Kingston,,4,5
+Hatfield,Hatfield,,18.030429,-77.536146,Manchester,,6,24
+Mandeville Proper,Mandeville Proper,,18.036775,-77.505284,Manchester,,6,22
+Newport,Newport,,17.92865,-77.516319,Manchester,,6,19
+Knockpatrick,Knockpatrick,,17.993635,-77.507477,Manchester,,6,18
+New Green,New Green,,18.05352,-77.510796,Manchester,,6,13
+Royal Flat,Royal Flat,,18.056782,-77.471631,Manchester,,6,6
+Part of Spaldings,Part of Spaldings,,18.15773,-77.45729,Manchester,,6,7
+Snow Hill,Snow Hill,,18.200444,-76.500406,Portland,,9,8
+Central Port Antonio,Central Port Antonio,,18.171276,-76.447632,Portland,,9,6
+Windsor Forest,Windsor Forest,,18.116477,-76.334472,Portland,,9,8
+Norwich,Norwich,,18.19427,-76.475662,Portland,,9,5
+Epson,Epson,,18.249115,-76.72665,Saint Mary,,4,5
+Mona Heights,Mona Heights,,18.014149,-76.752409,Saint Andrew,,4,6
+Seaward Pen,Seaward Pen,,18.02154,-76.820663,Saint Andrew,,4,7
+Bull Bay/ Seven Mile,Bull Bay/ Seven Mile,,17.942921,-76.66726,Saint Andrew,,9,7
+Delacree Park/ Union Gardens,Delacree Park/ Union Gardens,,17.989284,-76.817218,Saint Andrew,,4,5
+University,University,,18.006013,-76.747103,Saint Andrew,,4,5
+Harbour View,Harbour View,,17.952329,-76.719222,Saint Andrew,,9,6
+Red Hills (Rural),Red Hills (Rural),,18.058326,-76.85372,Saint Andrew,,4,6
+Norbrook,Norbrook,,18.055455,-76.782702,Saint Andrew,,4,7
+Lawrence Tavern,Lawrence Tavern,,18.127907,-76.846409,Saint Andrew,,4,8
+Delacree Pen,Delacree Pen,,17.995495,-76.818756,Saint Andrew,,4,5
+Greenwich Town/ Newport West,Greenwich Town/ Newport West,,17.96757,-76.804737,Saint Andrew,,4,5
+Tower Hill,Tower Hill,,18.010439,-76.829911,Saint Andrew,,4,5
+Trench Town,Trench Town,,17.98579,-76.804335,Saint Andrew,,4,5
+Waterhouse,Waterhouse,,18.028568,-76.843746,Saint Andrew,,4,5
+Grants Pen,Grants Pen,,18.031638,-76.790952,Saint Andrew,,4,5
+Whitehall,Whitehall,,18.038067,-76.809234,Saint Andrew,,4,6
+Havendale,Havendale,,18.051639,-76.811546,Saint Andrew,,4,5
+Barbican,Barbican,,18.025612,-76.771163,Saint Andrew,,4,5
+Cavaliers,Cavaliers,,18.094858,-76.835327,Saint Andrew,,4,7
+Roehampton,Roehampton,,18.042897,-76.80758,Saint Andrew,,4,5
+Cross Roads,Cross Roads,,17.992832,-76.790635,Saint Andrew,,4,5
+Pembroke Hall,Pembroke Hall,,18.029593,-76.828849,Saint Andrew,,4,5
+Kencot,Kencot,,18.002619,-76.795682,Saint Andrew,,4,5
+Vineyard Town,Vineyard Town,,17.989808,-76.778375,Saint Andrew,,4,5
+Hope Tavern,Hope Tavern,,18.014586,-76.740749,Saint Andrew,,4,5
+Drewsland,Drewsland,,18.024075,-76.830252,Saint Andrew,,4,5
+Beverley Hills,Beverley Hills,,18.007787,-76.765392,Saint Andrew,,4,5
+Patrick City,Patrick City,,18.031741,-76.838941,Saint Andrew,,4,5
+Liguanea,Liguanea,,18.014748,-76.761065,Saint Andrew,,4,5
+Hermitage,Hermitage,,17.993966,-76.743099,Saint Andrew,,4,5
+Kintyre,Kintyre,,18.012346,-76.737282,Saint Andrew,,4,5
+Cassia Park,Cassia Park,,18.020288,-76.807942,Saint Andrew,,4,5
+Three Oaks/ Glendale,Three Oaks/ Glendale,,18.030895,-76.825648,Saint Andrew,,4,5
+Whitfield Town,Whitfield Town,,17.994701,-76.80722,Saint Andrew,,4,5
+Cherry Gardens,Cherry Gardens,,18.043437,-76.776932,Saint Andrew,,4,5
+Half-Way-Tree,Half-Way-Tree,,18.00231,-76.792093,Saint Andrew,,4,5
+Boucher Park,Boucher Park,,18.062488,-76.758457,Saint Andrew,,4,5
+Molynes Four Roads,Molynes Four Roads,,18.012709,-76.801669,Saint Andrew,,4,5
+Hope Pastures/ UTECH,Hope Pastures/ UTECH,,18.018682,-76.744474,Saint Andrew,,4,5
+Eastwood Park Gardens,Eastwood Park Gardens,,18.015456,-76.798445,Saint Andrew,,4,5
+August Town,August Town,,17.993023,-76.740867,Saint Andrew,,4,5
+Golden Spring,Golden Spring,,18.09016,-76.801451,Saint Andrew,,4,6
+Cockburn Gardens,Cockburn Gardens,,18.011768,-76.823082,Saint Andrew,,4,5
+Molynes Gardens,Molynes Gardens,,18.034608,-76.817314,Saint Andrew,,4,5
+Duhaney Park,Duhaney Park,,18.029629,-76.850474,Saint Andrew,,4,5
+Oaklands,Oaklands,,18.035682,-76.796043,Saint Andrew,,4,5
+Hughenden,Hughenden,,18.031415,-76.818395,Saint Andrew,,4,5
+Marverley,Marverley,,18.014311,-76.809026,Saint Andrew,,4,5
+Richmond Park,Richmond Park,,18.005164,-76.811546,Saint Andrew,,4,5
+Forest Hills/ Plantation Height,Forest Hills/ Plantation Height,,18.041663,-76.856527,Saint Andrew,,4,5
+Jones Town,Jones Town,,17.986069,-76.797846,Saint Andrew,,4,5
+Arlene Gardens,Arlene Gardens,,18.036973,-76.824646,Saint Andrew,,4,5
+Queensborough/ Tunbridge,Queensborough/ Tunbridge,,18.040034,-76.825525,Saint Andrew,,4,5
+Mountain View Gardens,Mountain View Gardens,,17.986107,-76.766835,Saint Andrew,,4,5
+Zaidie Gardens,Zaidie Gardens,,18.024342,-76.815872,Saint Andrew,,4,5
+Trafalgar Park,Trafalgar Park,,18.011311,-76.784866,Saint Andrew,,4,5
+Washington Gardens,Washington Gardens,,18.023423,-76.844708,Saint Andrew,,4,5
+Drumblair,Drumblair,,18.026377,-76.789688,Saint Andrew,,4,5
+Waltham Gardens,Waltham Gardens,,18.01235,-76.813414,Saint Andrew,,4,5
+Woodford Park,Woodford Park,,17.984875,-76.780538,Saint Andrew,,4,5
+Papine,Papine,,18.011598,-76.736538,Saint Andrew,,4,5
+Bloxborough,Bloxborough,,18.059877,-76.756397,Saint Andrew,,4,5
+Parry Town,Parry Town,,18.39452,-77.109599,Saint Ann,,8,16
+Hinds Town,Hinds Town,,18.348784,-77.239577,Saint Ann,,8,9
+Exchange,Exchange,,18.408173,-77.069562,Saint Ann,,8,10
+Steer Town,Steer Town,,18.413123,-77.162896,Saint Ann,,8,6
+St. Ann's Bay,St. Ann's Bay,,18.432947,-77.1974,Saint Ann,,8,5
+Priory,Priory,,18.439175,-77.224708,Saint Ann,,8,5
+Discovery Bay,Discovery Bay,,18.458202,-77.39847,Saint Ann,,8,19
+Browns Town,Browns Town,,18.389459,-77.372638,Saint Ann,,8,16
+Philadelphia,Philadelphia,,18.39317,-77.31952,Saint Ann,,8,9
+Macknie,Macknie,,18.192827,-77.250484,Saint Ann,,8,7
+York Castle,York Castle,,18.388052,-77.364536,Saint Ann,,8,11
+Lime Hall,Lime Hall,,18.428506,-77.203429,Saint Ann,,8,5
+Cole Gate,Cole Gate,,18.357073,-77.090049,Saint Ann,,8,9
+Braeton,Braeton,,17.949508,-76.889391,Saint Catherine,,4,5
+Spanish Town Central,Spanish Town Central,,18.019317,-76.975827,Saint Catherine,,4,5
+Cromarty,Cromarty,,17.9827,-76.971507,Saint Catherine,,4,5
+Hellshire,Hellshire,,17.897913,-76.894074,Saint Catherine,,4,5
+Greater Portmore,Greater Portmore,,17.94798,-76.909565,Saint Catherine,,4,5
+Bogwalk,Bogwalk,,18.105767,-77.007506,Saint Catherine,,4,6
+Hampton Green,Hampton Green,,18.002845,-76.968627,Saint Catherine,,4,5
+Sligoville,Sligoville,,18.093398,-76.975667,Saint Catherine,,4,5
+Greendale,Greendale,,17.996237,-76.945172,Saint Catherine,,4,5
+Ensom,Ensom,,18.011945,-76.963586,Saint Catherine,,4,5
+Naggo Head,Naggo Head,,17.968093,-76.885067,Saint Catherine,,4,5
+Willowdene,Willowdene,,17.995106,-76.983028,Saint Catherine,,4,5
+Golden Acres,Golden Acres,,18.022518,-76.978427,Saint Catherine,,4,5
+Bridgeport,Bridgeport,,17.96189,-76.879303,Saint Catherine,,4,5
+Gregory Park,Gregory Park,,17.998693,-76.886508,Saint Catherine,,4,5
+Old Harbour Road,Old Harbour Road,,17.980318,-76.998926,Saint Catherine,,4,5
+Central Village,Central Village,,18.000664,-76.915328,Saint Catherine,,4,5
+Waterford,Waterford,,17.98744,-76.870655,Saint Catherine,,4,5
+Keystone,Keystone,,18.018513,-76.942701,Saint Catherine,,4,5
+St. John's East,St. John's East,,18.005143,-76.966906,Saint Catherine,,4,5
+Troja,Troja,,18.208967,-76.922532,Saint Catherine,,8,7
+Crescent,Crescent,,18.008796,-77.00368,Saint Catherine,,4,5
+Cumberland,Cumberland,,17.97661,-76.882185,Saint Catherine,,4,5
+Passage Fort,Passage Fort,,17.981236,-76.864889,Saint Catherine,,4,5
+Edgewater,Edgewater,,17.964203,-76.870655,Saint Catherine,,4,5
+Independence City,Independence City,,17.982148,-76.881187,Saint Catherine,,4,5
+Glengoffe,Glengoffe,,18.141852,-76.887229,Saint Catherine,,8,6
+Treasure Beach,Treasure Beach,,17.881749,-77.759513,Saint Elizabeth,,6,9
+Bigwoods,Bigwoods,,17.937066,-77.713731,Saint Elizabeth,,6,11
+Slipe,Slipe,,18.046656,-77.788118,Saint Elizabeth,,6,12
+Rose Hall,Rose Hall,,17.931334,-77.646955,Saint Elizabeth,,6,7
+Junction,Junction,,17.899982,-77.604711,Saint Elizabeth,,6,6
+Braes River,Braes River,,18.080271,-77.647368,Saint Elizabeth,,6,8
+Thornton,Thornton,,18.173463,-77.725353,Saint Elizabeth,,6,14
+Pisgah,Pisgah,,18.204446,-77.879617,Saint Elizabeth,,6,9
+Goshen,Goshen,,18.078846,-77.69942,Saint Elizabeth,,6,6
+Leeds,Leeds,,18.018349,-77.69012,Saint Elizabeth,,6,5
+Ballards  Valley,Ballards  Valley,,17.897222,-77.613056,Saint Elizabeth,,6,5
+Pedro Plains,Pedro Plains,,17.891718,-77.728331,Saint Elizabeth,,6,5
+Watchwell,Watchwell,,17.935705,-77.760944,Saint Elizabeth,,6,5
+Giddy Hall,Giddy Hall,,18.111408,-77.860846,Saint Elizabeth,,6,6
+Pepper,Pepper,,18.050308,-77.640726,Saint Elizabeth,,6,5
+Middle Quarters,Middle Quarters,,18.102018,-77.833869,Saint Elizabeth,,6,6
+Top Hill,Top Hill,,17.892578,-77.637542,Saint Elizabeth,,6,5
+Lititz,Lititz,,17.941642,-77.580584,Saint Elizabeth,,6,5
+Bull Savannah,Bull Savannah,,17.884618,-77.595062,Saint Elizabeth,,6,5
+Aberdeen,Aberdeen,,18.198852,-77.708006,Saint Elizabeth,,6,8
+Red Bank,Red Bank,,17.927427,-77.629677,Saint Elizabeth,,6,5
+Holland,Holland,,18.06562,-77.757854,Saint Elizabeth,,6,6
+Brighton,Brighton,,18.094564,-77.702125,Saint Elizabeth,,7,2
+Newton,Newton,,18.100438,-77.697318,Saint Elizabeth,,7,2
+Hopeton,Hopeton,,17.995202,-76.925897,Saint Elizabeth,,4,5
+West Green,West Green,,18.460884,-77.925303,Saint James,,8,17
+Catherine Hall,Catherine Hall,,18.461236,-77.921745,Saint James,,8,17
+Rose Heights,Rose Heights,,18.476223,-77.89389,Saint James,,8,16
+Down Town Montego Bay,Down Town Montego Bay,,18.476223,-77.89389,Saint James,,8,13
+Brandon Hill,Brandon Hill,,18.475773,-77.911032,Saint James,,8,11
+Orange,Orange,,18.480123,-77.922791,Saint James,,5,5
+Granville,Granville,,18.445859,-77.898175,Saint James,,5,5
+Bogue,Bogue,,18.441496,-77.923856,Saint James,,5,5
+Pitfour,Pitfour,,18.442003,-77.896157,Saint James,,5,5
+Norwood,Norwood,,18.492567,-77.90276,Saint James,,5,5
+Mount Salem,Mount Salem,,18.466837,-77.906747,Saint James,,5,5
+Albion,Albion,,18.482164,-77.918174,Saint James,,5,5
+Flankers,Flankers,,18.504223,-77.898175,Saint James,,5,5
+Unity Hall,Unity Hall,,18.448071,-77.978148,Saint James,,5,5
+Dumfries,Dumfries,,18.422406,-77.76526,Saint James,,8,14
+John's Hall,John's Hall,,18.419571,-77.852451,Saint James,,5,7
+Catadupa,Catadupa,,18.279485,-77.873886,Saint James,,5,5
+Somerton,Somerton,,18.429898,-77.788121,Saint James,,8,12
+Rose Mount Garden,Rose Mount Garden,,18.468336,-77.896032,Saint James,,5,5
+Barrett Town,Barrett Town,,18.509728,-77.801648,Saint James,,8,7
+Paradise,Paradise,,18.476004,-77.922032,Saint James,,5,5
+Lilliput,Lilliput,,18.51239,-77.776677,Saint James,,8,8
+Green Pond,Green Pond,,18.47158,-77.872815,Saint James,,5,5
+Glendevon,Glendevon,,18.480285,-77.900318,Saint James,,5,5
+Welcome Hall,Welcome Hall,,18.373811,-77.843416,Saint James,,5,5
+Farm Heights,Farm Heights,,18.47362,-77.88746,Saint James,,5,5
+Maldon,Maldon,,18.461833,-77.918831,Saint James,,5,5
+Retirement,Retirement,,18.439472,-77.889603,Saint James,,5,5
+Porto Bello,Porto Bello,,18.462396,-77.881061,Saint James,,5,5
+Tangle River,Tangle River,,18.346079,-77.820379,Saint James,,5,5
+Flower Hill,Flower Hill,,18.494821,-77.84873,Saint James,,8,5
+Salt Spring,Salt Spring,,18.479235,-77.89882,Saint James,,5,5
+Rosemount,Rosemount,,18.474375,-77.898842,Saint James,,5,5
+Niagara,Niagara,,18.279583,-77.833226,Saint James,,5,5
+Coral Gardens,Coral Gardens,,18.510182,-77.863807,Saint James,,8,5
+Tucker,Tucker,,18.450713,-77.886892,Saint James,,5,5
+Ironshore,Ironshore,,18.507396,-77.896737,Saint James,,5,5
+Adelphi,Adelphi,,18.448151,-77.79126,Saint James,,8,5
+Montpelier,Montpelier,,18.362896,-77.923887,Saint James,,5,5
+Summer Hill,Summer Hill,,18.517281,-77.838917,Saint James,,8,5
+Mount Carey,Mount Carey,,18.386785,-77.932457,Saint James,,5,5
+Reading,Reading,,18.44004,-77.943881,Saint James,,5,5
+Irwin,Irwin,,18.462051,-77.91793,Saint James,,5,5
+Spot Valley,Spot Valley,,18.496956,-77.793811,Saint James,,8,5
+Catherine Mount,Catherine Mount,,18.464327,-77.901747,Saint James,,5,5
+Friendship,Friendship,,18.474764,-77.917934,Saint James,,5,5
+Montego Hill,Montego Hill,,18.489762,-77.888889,Saint James,,5,5
+Flamstead,Flamstead,,18.325247,-77.822141,Saint James,,5,5
+Tower Hill/Moy Hall,Tower Hill/Moy Hall,,18.412888,-77.861743,Saint James,,5,5
+Castleton,Castleton,,18.201507,-76.825244,Saint Mary,,4,6
+Galina,Galina,,18.40473,-76.893714,Saint Mary,,8,5
+Enfield,Enfield,,18.232629,-76.741464,Saint Mary,,4,5
+Guys Hill,Guys Hill,,18.249976,-76.990228,Saint Mary,,8,5
+Martin,Martin,,18.283881,-76.870655,Saint Mary,,4,5
+Baileys Vale,Baileys Vale,,18.351525,-76.906039,Saint Mary,,8,5
+Clonmel,Clonmel,,18.242302,-76.850084,Saint Mary,,4,5
+Font Hill,Font Hill,,17.937417,-76.505465,Saint Thomas,,9,10
+Church Corner,Church Corner,,17.886246,-76.417259,Saint Thomas,,9,8
+Port Morant,Port Morant,,17.896142,-76.331889,Saint Thomas,,9,8
+White Horses,White Horses,,17.881546,-76.453417,Saint Thomas,,9,7
+Duckenfield,Duckenfield,,17.921518,-76.260946,Saint Thomas,,9,10
+Retreat,Retreat,,17.875097,-76.373498,Saint Thomas,,9,5
+Wilmington,Wilmington,,18.408328,-77.856936,Saint Thomas,,5,5
+Barking Lodge,Barking Lodge,,17.892806,-76.284408,Saint Thomas,,9,5
+Amity Hall,Amity Hall,,17.955861,-76.249722,Saint Thomas,,9,5
+Salt Marsh,Salt Marsh,,18.494491,-77.703713,Trelawny,,8,5
+Bounty Hall,Bounty Hall,,18.451858,-77.708525,Trelawny,,8,6
+Clarks Town,Clarks Town,,18.415307,-77.541879,Trelawny,,8,5
+Deeside,Deeside,,18.370508,-77.609482,Trelawny,,8,5
+Bunkers Hill,Bunkers Hill,,18.1925,-76.9225,Trelawny,,4,5
+Alps,Alps,,18.335778,-77.514272,Trelawny,,8,5
+Duanvale,Duanvale,,18.405692,-77.594895,Trelawny,,8,5
+Kinloss,Kinloss,,18.403423,-77.560509,Trelawny,,8,5
+Martha Brae,Martha Brae,,18.47048,-77.660055,Trelawny,,8,5
+Sherwood Content,Sherwood Content,,18.390794,-77.627018,Trelawny,,8,5
+Samuels Prospect,Samuels Prospect,,18.371811,-77.608795,Trelawny,,8,5
+Daniel Town,Daniel Town,,18.456764,-77.617812,Trelawny,,8,5
+Jackson Town,Jackson Town,,18.412672,-77.480235,Trelawny,,8,5
+Spicy Hill,Spicy Hill,,18.458509,-77.544937,Trelawny,,8,5
+Hampden,Hampden,,18.440133,-77.745244,Trelawny,,8,5
+Orange Hill,Orange Hill,,18.263333,-77.989722,Westmoreland,,5,5
+Jerusalem,Jerusalem,,18.326959,-78.230576,Westmoreland,,5,5
+Burnt Savannah,Burnt Savannah,,18.316667,-78.1,Westmoreland,,5,5
+Haddo,Haddo,,18.292532,-78.021679,Westmoreland,,5,5
+Savannah-la-mar Business Dist.,Savannah-la-mar Business Dist.,,18.225995,-78.130876,Westmoreland,,5,5
+Smithfield,Smithfield,,18.221877,-78.107797,Westmoreland,,5,5
+Georges Plain,Georges Plain,,18.278954,-78.14219,Westmoreland,,5,5
+Fort Williams,Fort Williams,,18.305556,-78.065833,Westmoreland,,5,5
+Paul Island,Paul Island,,18.285022,-78.252865,Westmoreland,,5,5
+Town Head,Town Head,,18.319455,-78.13965,Westmoreland,,5,5
+Hertford,Hertford,,18.258231,-78.090865,Westmoreland,,5,5
+Shefield,Shefield,,18.27758,-78.304577,Westmoreland,,5,5
+Truro,Truro,,18.308972,-78.150412,Westmoreland,,5,5
+Strathbogie,Strathbogie,,18.305557,-78.156917,Westmoreland,,5,5
+Llandilo,Llandilo,,18.229495,-78.141656,Westmoreland,,5,5
+Cave,Cave,,18.207138,-78.043795,Westmoreland,,5,5
+Mount Airy,Mount Airy,,18.251214,-78.328492,Westmoreland,,5,5
+Delveland,Delveland,,18.275302,-78.23772,Westmoreland,,5,5
+Mackfield,Mackfield,,18.312728,-78.155544,Westmoreland,,5,5
+Gooden's River,Gooden's River,,18.31338,-78.158977,Westmoreland,,5,5
+Chantilly,Chantilly,,18.312728,-78.154857,Westmoreland,,5,5
+Whithorn,Whithorn,,18.279854,-78.028814,Westmoreland,,5,5
+Broughton,Broughton,,18.227301,-78.225114,Westmoreland,,5,5
+Whitehouse,Whitehouse,,18.094397,-77.966727,Westmoreland,,6,5
+Mount Stewart,Mount Stewart,,18.298321,-77.995166,Westmoreland,,5,5
+Seaton Crescent,Seaton Crescent,,18.228115,-78.135487,Westmoreland,,5,5
+Three Mile River,Three Mile River,,18.259891,-78.135817,Westmoreland,,5,5
+Cornwall Mountian,Cornwall Mountian,,18.291414,-77.988892,Westmoreland,,5,5
+Fullersfield,Fullersfield,,18.287131,-78.19901,Westmoreland,,5,5

@@ -1,0 +1,402 @@
+Lat,Long,Name,Parish,Population
+18.1089,76.8772,Above Rocks,Saint Catherine,"3,263"
+18.2958,77.5414,Albert Town,Trelawny,"3,389"
+18.2983,77.3575,Alexandria,Saint Ann,"1,672"
+17.8711,77.5683,Alligator Pond,Manchester,"1,542"
+18.4097,77.9339,Anchovy,Saint James,"3,633"
+18.2703,76.7706,Annotto Bay,Saint Mary,"5,468"
+18.1705,77.6484,Balaclava,Saint Elizabeth,"2,837"
+18.3851,77.2662,Bamboo,Saint Ann,"3,732"
+17.95,76.35,Bath,Saint Thomas,"2,151"
+18.3,77.95,Bethel Town,Westmoreland,"2,768"
+18.03,77.86,Black River,Saint Elizabeth,"3,675"
+18.17,78.03,Bluefields,Westmoreland,"2,564"
+18.1,77.02,Bog Walk,Saint Catherine,"8,794"
+18.06,77.9,Brompton,Saint Elizabeth,"1,457"
+18.4,77.36,Brown's Town,Saint Ann,"6,762"
+18.23,76.67,Buff Bay,Portland,"2,596"
+17.88,77.59,Bull Savanna,Saint Elizabeth,
+18.32,77.89,Cambridge,Saint James,"3,384"
+18.4,78.1,Cascade,Hanover,"1,220"
+18.27,77.37,Cave Valley,Saint Ann,"1,777"
+18.08,77.27,Chapelton,Clarendon,"3,930"
+18.17,77.49,Christiana,Manchester,"7,235"
+18.38,77.17,Claremont,Saint Ann,"2,154"
+18.42,77.57,Clark's Town,Trelawny,"3,139"
+18.22,77.5,Coleyville,Manchester,"3,320"
+18.05,76.78,Constant Spring,Saint Andrew,"12,369"
+18.13,77.22,Croft's Hill,Clarendon,"2,994"
+17.9,76.25,Dalvey,Saint Thomas,"2,742"
+18.23,77.97,Darliston,Westmoreland,"1,435"
+18.47,77.39,Discovery Bay (Dry Harbour),Saint Ann,"2,230"
+18.47,77.53,Duncans,Trelawny,"1,849"
+17.92,76.6,Easington,Saint Thomas,"2,378"
+18.18,77.08,Ewarton,Saint Catherine,"8,742"
+18.49,77.66,Falmouth,Trelawny,"7,245"
+18.15,77.35,Frankfield,Clarendon,"2,865"
+18.3,78.15,Frome,Westmoreland,900
+18.33,77.0,Gayle,Saint Mary,"3,205"
+17.93,76.27,Golden Grove,Saint Thomas,"2,761"
+18.05,76.7,Gordon Town,Saint Andrew,"1,049"
+18.37,78.2,Grange Hill,Westmoreland,"6,530"
+18.38,78.58,Green Island,Hanover,"1,591"
+18.25,77.0,Guy's Hill,Saint Mary,"3,165"
+17.88,77.25,Hayes,Clarendon,"8,447"
+18.32,76.87,Highgate,Saint Mary,"5,418"
+18.2,76.57,Hope Bay,Portland,"1,569"
+18.25,78.3,Hopewell,Hanover,"4,268"
+18.32,76.85,Islington,Saint Mary,"2,868"
+18.17,77.23,Kellits,Clarendon,"2,291"
+18.07,77.75,Lacovia,Saint Elizabeth,"3,159"
+18.15,77.02,Linstead,Saint Catherine,"14,114"
+17.8,77.23,Lionel Town,Clarendon,"4,669"
+18.3,78.2,Little London,Westmoreland,"1,848"
+18.12,77.15,Lluidas Vale,Saint Catherine,"2,161"
+18.44,78.18,Lucea,Hanover,"6,002"
+18.3,77.02,Lucky Hill,Saint Mary,750
+18.15,77.77,Maggotty,Saint Elizabeth,"1,359"
+17.97,77.72,Malvern,Saint Elizabeth,"3,262"
+18.05,76.28,Manchioneal,Portland,"2,185"
+18.05,77.48,Mandeville,Manchester,"39,945"
+18.35,77.79,Maroon Town,Saint James,"2,669"
+18.02,76.67,Mavis Bank,Saint Andrew,"1,756"
+17.97,77.24,May Pen,Clarendon,"45,903"
+18.28,77.1,Moneague,Saint Ann,"2,880"
+18.4666,77.9166,Montego Bay,Saint James,"96,488"
+18.07,76.43,Moore Town,Portland,"1,054"
+17.87,76.39,Morant Bay,Saint Thomas,"9,602"
+17.97,77.6,Nain,Saint Elizabeth,"2,373"
+18.32,78.33,Negril,Westmoreland,"4,184"
+18.42,77.11,Ocho Rios,Saint Ann,"8,189"
+17.92,77.1,Old Harbour,Saint Catherine,"17,778"
+17.9,77.1,Old Harbour Bay,Saint Catherine,"5,405"
+18.47,76.93,Oracabessa,Saint Mary,"4,066"
+17.97,77.33,Osbourne Store,Clarendon,"3,390"
+18.25,78.07,Petersfield,Westmoreland,"2,045"
+18.08,77.1,Point Hill,Saint Catherine,"3,651"
+18.16,76.38,Port Antonio,Portland,"13,246"
+18.37,76.89,Port Maria,Saint Mary,"7,651"
+17.93,76.85,Port Royal,Kingston,"3,004"
+17.9499,76.8799,Portmore,Saint Catherine,"90,138"
+18.03,77.42,Porus,Manchester,"5,095"
+17.83,77.28,Race Course,Clarendon,"2,589"
+18.23,76.9,Richmond,Saint Mary,"1,984"
+18.57,77.45,Rio Bueno,Trelawny,"1,108"
+18.15,76.97,Riversdale,Saint Catherine,"2,791"
+17.77,77.27,Rocky Point,Clarendon,"2,744"
+18.45,77.33,Runaway Bay,Saint Ann,"5,655"
+18.44,77.22,Saint Ann's Bay,Saint Ann,"10,961"
+18.45,78.1,Sandy Bay,Hanover,"4,476"
+18.1,77.34,Sanguinetti,Clarendon,"3,900"
+18.07,77.72,Santa Cruz,Saint Elizabeth,"8,144"
+18.16,77.95,Savanna-la-Mar,Westmoreland,"16,553"
+18.15,77.54,Seaford Town,Westmoreland,"4,108"
+17.93,76.45,Seaforth,Saint Thomas,"4,108"
+18.17,77.73,Siloah,Saint Elizabeth,"2,701"
+17.88,77.67,Southfield,Saint Elizabeth,"2,671"
+17.9958,76.9551,Spanish Town,Saint Catherine,"92,383"
+18.08,76.78,Stony Hill,Saint Andrew,"8,244"
+17.95,76.53,Trinity Ville,Saint Thomas,"2,614"
+18.32,77.52,Ulster Spring,Trelawny,"1,391"
+18.42,77.72,Wakefield,Trelawny,"2,724"
+18.08,77.97,White House,Westmoreland,"3,157"
+18.07,77.48,Williamsfield,Manchester,"2,800"
+17.87,76.57,Yallahs,Saint Thomas,"6,902"
+17.9557183,-77.2405153,Grantham,Clarendon,
+17.9421569,-77.2333304,Mineral Heights,Clarendon,
+17.9718957,-77.2430438,May Pen Proper,Clarendon,
+17.8130192,-77.2807423,Longwood,Clarendon,
+17.9699234,-76.78861450000001,Copse,Hanover,
+18.344818300000004,-78.29798740000001,Logwood,Hanover,
+18.408830399999996,-78.2025913,Cacoon,Hanover,
+18.369958399999998,-78.3145181,Orange Bay,Hanover,
+18.3509957,-77.977434,Ramble,Hanover,
+18.3864142,-78.2034633,Kingsvale,Hanover,
+18.3982445,-78.1942034,Dias,Hanover,
+18.4290781,-78.1293451,Jericho,Hanover,
+0.0028346728366059914,-71.88822468623476,Rock Spring,Hanover,
+18.450418600000003,-78.1763937,Lucea West,Hanover,
+18.3839997,-78.150467,Askenish,Hanover,
+18.450418600000003,-78.1763937,Lucea East,Hanover,
+18.4451128,-78.2198442,Lances Bay,Hanover,
+18.396561,-78.0753922,Great Valley,Hanover,
+18.4233505,-78.2454787,Cousins Cove,Hanover,
+18.3650764,-78.04706740000002,Success,Hanover,
+18.3565143,-78.28605379999999,Santoy,Hanover,
+18.389526,-78.244952,Cauldwell,Hanover,
+18.3440652,-78.0171776,Mount Peto,Hanover,
+18.387556399999998,-78.129812,Maryland,Hanover,
+0.0028346728366059914,-71.88822468623476,Cacoon Castle,Hanover,
+18.321366,-77.9702959,Chester Castle,Hanover,
+18.4097707,-78.133638,Haddington,Hanover,
+18.396561,-78.0753922,Pondside,Hanover,
+18.3450397,-78.2775975,March Town,Hanover,
+17.9709915,-76.7896092,East Down Town,Kingston,
+18.0370515,-76.8300026,Denham Town,Kingston,
+18.017874300000003,-76.8099041,Central Down Town,Kingston,
+17.9696796,-76.78125959999998,Passmore Town,Kingston,
+17.9775951,-76.76972009999999,Rollington Town,Kingston,
+0.002924203995978578,-76.05365993948551,D'Aguilar Town/ Rennock Lodge,Kingston,
+17.9687247,-76.7884713,West Down Town,Kingston,
+17.9746509,-76.8007301,Tivoli Gardens,Kingston,
+17.9598402,-76.87722020000001,Newton Square,Kingston,
+18.024718300000004,-76.8096019,Kingston Gardens,Kingston,
+17.9711901,-76.7610647,Bournemouth Gardens,Kingston,
+37.244319,-93.3888303,Springfield,Kingston,
+17.965944600000004,-76.77777840000002,Rae Town,Kingston,
+17.984597,-76.787029,Allman Town,Kingston,
+17.9675956,-76.7685245,Manley Meadows,Kingston,
+17.9779933,-76.77549,Franklyn Town,Kingston,
+17.9797019,-76.75817940000002,Norman Gardens,Kingston,
+17.9794542,-76.7913834,Fletchers Land,Kingston,
+18.030429,-77.5361462,Hatfield,Manchester,
+0.0027869117926836964,-0.028594236138554965,Mandeville Proper,Manchester,
+17.92865,-77.516319,Newport,Manchester,
+17.993635100000002,-77.50747740000001,Knockpatrick,Manchester,
+18.053520000000002,-77.5107955,New Green,Manchester,
+18.056782000000002,-77.4716313,Royal Flat,Manchester,
+18.1577304,-77.4572897,Part of Spaldings,Manchester,
+18.2004437,-76.5004058,Snow Hill,Portland,
+18.1712764,-76.44763209999999,Central Port Antonio,Portland,
+18.1164768,-76.3344723,Windsor Forest,Portland,
+18.1942695,-76.4756623,Norwich,Portland,
+18.014149300000003,-76.7524087,Mona Heights,Saint Andrew,
+18.021540100000003,-76.82066259999999,Seaward Pen,Saint Andrew,
+17.9429207,-76.6672602,Bull Bay/ Seven Mile,Saint Andrew,
+17.989284100000003,-76.8172184,Delacree Park/ Union Gardens,Saint Andrew,
+18.006013199999998,-76.7471032,University,Saint Andrew,
+17.952329100000004,-76.7192221,Harbour View,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Red Hills (Rural),Saint Andrew,
+18.0554552,-76.782702,Norbrook,Saint Andrew,
+18.1279072,-76.8464094,Lawrence Tavern,Saint Andrew,
+17.9954951,-76.8187557,Delacree Pen,Saint Andrew,
+17.9675704,-76.80473719999999,Greenwich Town/ Newport West,Saint Andrew,
+18.0104393,-76.829911,Tower Hill,Saint Andrew,
+17.9857896,-76.8043355,Trench Town,Saint Andrew,
+18.028568300000003,-76.84374559999999,Waterhouse,Saint Andrew,
+18.0316384,-76.79095240000001,Grants Pen,Saint Andrew,
+18.038067,-76.8092343,Whitehall,Saint Andrew,
+18.051639399999996,-76.8115458,Havendale,Saint Andrew,
+18.0256117,-76.7711626,Barbican,Saint Andrew,
+18.0948578,-76.83532659999999,Cavaliers,Saint Andrew,
+18.042897,-76.8075801,Roehampton,Saint Andrew,
+17.9928319,-76.79063470000001,Cross Roads,Saint Andrew,
+18.0295934,-76.82884890000001,Pembroke Hall,Saint Andrew,
+18.0026187,-76.7956825,Kencot,Saint Andrew,
+17.9898081,-76.77837480000001,Vineyard Town,Saint Andrew,
+18.0145858,-76.74074909999999,Hope Tavern,Saint Andrew,
+18.0240752,-76.8302515,Drewsland,Saint Andrew,
+18.0077875,-76.76539240000001,Beverley Hills,Saint Andrew,
+18.0317407,-76.83894129999999,Patrick City,Saint Andrew,
+18.0147484,-76.7610647,Liguanea,Saint Andrew,
+17.9939663,-76.7430993,Hermitage,Saint Andrew,
+18.0123464,-76.7372819,Kintyre,Saint Andrew,
+18.0202884,-76.8079418,Cassia Park,Saint Andrew,
+18.030894600000003,-76.8256479,Three Oaks/ Glendale,Saint Andrew,
+17.994700899999998,-76.8072196,Whitfield Town,Saint Andrew,
+18.0434374,-76.7769324,Cherry Gardens,Saint Andrew,
+18.002310100000003,-76.7920934,Half-Way-Tree,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Boucher Park,Saint Andrew,
+18.0127087,-76.8016686,Molynes Four Roads,Saint Andrew,
+18.0186816,-76.74447359999999,Hope Pastures/ UTECH,Saint Andrew,
+18.0154557,-76.7984452,Eastwood Park Gardens,Saint Andrew,
+17.993023100000002,-76.7408666,August Town,Saint Andrew,
+18.090160100000002,-76.8014512,Golden Spring,Saint Andrew,
+18.0117678,-76.8230815,Cockburn Gardens,Saint Andrew,
+18.0346081,-76.8173138,Molynes Gardens,Saint Andrew,
+18.0296291,-76.85047440000001,Duhaney Park,Saint Andrew,
+18.0356818,-76.79604309999999,Oaklands,Saint Andrew,
+18.0314148,-76.81839520000001,Hughenden,Saint Andrew,
+18.0272658,-76.82668609999999,Marverley,Saint Andrew,
+18.0051643,-76.8115458,Richmond Park,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Forest Hills/ Plantation Height,Saint Andrew,
+17.986068600000003,-76.7978458,Jones Town,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Red Hills/ Sterling Castle,Saint Andrew,
+18.0369734,-76.824646,Arlene Gardens,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Queensborough/ Tunbridge,Saint Andrew,
+17.986107399999998,-76.766835,Mountain View Gardens,Saint Andrew,
+18.024342100000002,-76.8158718,Zaidie Gardens,Saint Andrew,
+18.011311199999998,-76.78486550000001,Trafalgar Park,Saint Andrew,
+18.023422600000004,-76.844708,Washington Gardens,Saint Andrew,
+18.0263767,-76.7896877,Drumblair,Saint Andrew,
+18.01235,-76.813414,Waltham Gardens,Saint Andrew,
+17.9848754,-76.78053840000001,Woodford Park,Saint Andrew,
+18.0115978,-76.736538,Papine,Saint Andrew,
+0.0027819850642450588,-74.88307584980066,Bloxborough,Saint Andrew,
+18.3945198,-77.1095985,Parry Town,Saint Ann,
+18.458202,-77.39847040000001,Discovery Bay,Saint Ann,
+18.3894586,-77.3726379,Browns Town,Saint Ann,
+18.192826899999996,-77.2504835,Macknie,Saint Ann,
+0.002836590005692351,-21.86037698555721,Hinds Town,Saint Ann,
+18.4081733,-77.0695623,Exchange,Saint Ann,
+18.413122899999998,-77.16289590000001,Steer Town,Saint Ann,
+18.4329473,-77.19739969999999,St. Ann's Bay,Saint Ann,
+18.439175199999998,-77.22470809999999,Priory,Saint Ann,
+18.3931702,-77.3195196,Philadelphia,Saint Ann,
+18.3880521,-77.3645357,York Castle,Saint Ann,
+18.4285057,-77.2034286,Lime Hall,Saint Ann,
+18.3570732,-77.0900489,Cole Gate,Saint Ann,
+17.9495083,-76.8893907,Braeton,Saint Catherine,
+18.0193171,-76.97582740000001,Spanish Town Central,Saint Catherine,
+17.982700199999996,-76.97150699999999,Cromarty,Saint Catherine,
+17.8979127,-76.8940743,Hellshire,Saint Catherine,
+17.947979999999998,-76.9095647,Greater Portmore,Saint Catherine,
+18.1057667,-77.00750550000001,Bogwalk,Saint Catherine,
+18.002844600000003,-76.9686267,Hampton Green,Saint Catherine,
+18.093398399999998,-76.9756667,Sligoville,Saint Catherine,
+17.9962367,-76.9451717,Greendale,Saint Catherine,
+18.0119455,-76.96358590000001,Ensom,Saint Catherine,
+17.9680932,-76.88506729999999,Naggo Head,Saint Catherine,
+17.995106,-76.9830277,Willowdene,Saint Catherine,
+18.022517999999998,-76.97842729999999,Golden Acres,Saint Catherine,
+17.9618897,-76.87930250000001,Bridgeport,Saint Catherine,
+17.9986932,-76.88650849999999,Gregory Park,Saint Catherine,
+17.980317899999996,-76.9989257,Old Harbour Road,Saint Catherine,
+18.000664,-76.9153281,Central Village,Saint Catherine,
+18.018147600000002,-77.0523088,Kitson Town,Saint Catherine,
+17.9874402,-76.8706548,Waterford,Saint Catherine,
+18.018513100000003,-76.9427006,Keystone,Saint Catherine,
+0.0027824293008370683,-62.018494363968806,St. John's East,Saint Catherine,
+18.208966500000002,-76.92253199999999,Troja,Saint Catherine,
+18.0087965,-77.0036797,Crescent,Saint Catherine,
+18.0044324,-77.0348573,St. John's West,Saint Catherine,
+17.9766103,-76.8821849,Cumberland,Saint Catherine,
+17.9812357,-76.86488929999999,Passage Fort,Saint Catherine,
+17.9642027,-76.8706548,Edgewater,Saint Catherine,
+17.9821476,-76.881187,Independence City,Saint Catherine,
+18.141852399999998,-76.887229,Glengoffe,Saint Catherine,
+17.8817491,-77.75951309999999,Treasure Beach,Saint Elizabeth,
+17.9370657,-77.7137306,Bigwoods,Saint Elizabeth,
+18.1734634,-77.7253532,Thornton,Saint Elizabeth,
+18.0466563,-77.78811759999999,Slipe,Saint Elizabeth,
+17.9313337,-77.6469553,Rose Hall,Saint Elizabeth,
+17.899982,-77.604711,Junction,Saint Elizabeth,
+18.2044462,-77.8796168,Pisgah,Saint Elizabeth,
+18.0802709,-77.647368,Braes River,Saint Elizabeth,
+18.0788461,-77.6994197,Goshen,Saint Elizabeth,
+17.897222199999998,-77.6130556,Ballards  Valley,Saint Elizabeth,
+17.8917176,-77.7283314,Pedro Plains,Saint Elizabeth,
+17.9357048,-77.76094350000001,Watchwell,Saint Elizabeth,
+18.018348800000002,-77.69011970000001,Leeds,Saint Elizabeth,
+18.1114085,-77.8608464,Giddy Hall,Saint Elizabeth,
+18.050307999999998,-77.6407258,Pepper,Saint Elizabeth,
+18.102018100000002,-77.8338693,Middle Quarters,Saint Elizabeth,
+17.892578399999998,-77.63754159999999,Top Hill,Saint Elizabeth,
+17.9416421,-77.5805844,Lititz,Saint Elizabeth,
+17.884618300000003,-77.5950623,Bull Savannah,Saint Elizabeth,
+18.198852,-77.7080064,Aberdeen,Saint Elizabeth,
+17.9274272,-77.6296772,Red Bank,Saint Elizabeth,
+18.065620300000003,-77.7578542,Holland,Saint Elizabeth,
+42.3058807,-71.1169652,Brighton,Saint Elizabeth,
+0.0029685841511058373,-58.36978778041198,Hopeton,Saint Elizabeth,
+42.3052107,-71.1087288,Newton,Saint Elizabeth,
+18.4608841,-77.9253025,West Green,Saint James,
+18.4612361,-77.9217448,Catherine Hall,Saint James,
+18.4762228,-77.8938895,Rose Heights,Saint James,
+18.4762228,-77.8938895,Down Town Montego Bay,Saint James,
+18.4757728,-77.9110318,Brandon Hill,Saint James,
+18.480122899999998,-77.9227906,Orange,Saint James,
+18.4458592,-77.89817540000001,Granville,Saint James,
+18.441495899999996,-77.9238557,Bogue,Saint James,
+18.4420027,-77.8961572,Pitfour,Saint James,
+18.4925672,-77.90276,Norwood,Saint James,
+18.4668374,-77.9067467,Mount Salem,Saint James,
+18.4821645,-77.918174,Albion,Saint James,
+18.5042233,-77.89817540000001,Flankers,Saint James,
+18.4480705,-77.97814770000001,Unity Hall,Saint James,
+18.4224063,-77.7652602,Dumfries,Saint James,
+18.4195715,-77.8524505,John's Hall,Saint James,
+18.279485,-77.8738864,Catadupa,Saint James,
+18.4298978,-77.78812140000001,Somerton,Saint James,
+18.468335999999997,-77.89603249999999,Rose Mount Garden,Saint James,
+18.5097282,-77.8016484,Barrett Town,Saint James,
+18.4860562,-77.9150671,Paradise,Saint James,
+18.5123897,-77.7766767,Lilliput,Saint James,
+18.4715802,-77.8728147,Green Pond,Saint James,
+18.480285000000002,-77.9003183,Glendevon,Saint James,
+18.376025600000002,-77.8468895,Welcome Hall,Saint James,
+18.473619600000003,-77.8874603,Farm Heights,Saint James,
+18.461833300000002,-77.9188312,Maldon,Saint James,
+18.439471700000002,-77.88960340000001,Retirement,Saint James,
+18.4623962,-77.88106090000001,Porto Bello,Saint James,
+18.3460785,-77.8203785,Tangle River,Saint James,
+18.494820899999997,-77.8487295,Flower Hill,Saint James,
+18.479235100000004,-77.8988197,Salt Spring,Saint James,
+18.474375199999997,-77.89884190000001,Rosemount,Saint James,
+18.2795826,-77.83322629999999,Niagara,Saint James,
+18.5101818,-77.8638067,Coral Gardens,Saint James,
+18.4507129,-77.886892,Tucker,Saint James,
+18.5073962,-77.89673690000001,Ironshore,Saint James,
+18.448151,-77.79126,Adelphi,Saint James,
+18.362896399999997,-77.9238872,Montpelier,Saint James,
+18.5172806,-77.83891700000001,Summer Hill,Saint James,
+18.386785,-77.9324565,Mount Carey,Saint James,
+18.440040300000003,-77.9438811,Reading,Saint James,
+18.462051199999998,-77.91793009999999,Irwin,Saint James,
+18.496956,-77.79381109999999,Spot Valley,Saint James,
+18.464326899999996,-77.9017468,Catherine Mount,Saint James,
+18.474764,-77.917934,Friendship,Saint James,
+18.4897618,-77.8888891,Montego Hill,Saint James,
+18.3252469,-77.8221407,Flamstead,Saint James,
+0.00284558225407631,-75.75967415716079,Tower Hill/Moy Hall,Saint James,
+18.2015068,-76.8252443,Castleton,Saint Mary,
+18.4047296,-76.893714,Galina,Saint Mary,
+18.2326288,-76.74146400000001,Enfield,Saint Mary,
+18.249975699999997,-76.9902276,Guys Hill,Saint Mary,
+18.2838807,-76.8706548,Martin,Saint Mary,
+18.249114600000002,-76.7266503,Epson,Saint Mary,
+18.351525199999998,-76.90603890000001,Baileys Vale,Saint Mary,
+18.242302300000002,-76.8500838,Clonmel,Saint Mary,
+17.9374168,-76.5054652,Font Hill,Saint Thomas,
+17.9215181,-76.2609463,Duckenfield,Saint Thomas,
+17.886246,-76.4172594,Church Corner,Saint Thomas,
+17.8961425,-76.331889,Port Morant,Saint Thomas,
+17.881546,-76.4534165,White Horses,Saint Thomas,
+17.8750969,-76.3734985,Retreat,Saint Thomas,
+0.002765679621158355,0.027068982931878455,Wilmington,Saint Thomas,
+17.892805600000003,-76.2844079,Barking Lodge,Saint Thomas,
+17.9558605,-76.24972240000001,Amity Hall,Saint Thomas,
+18.4944908,-77.70371309999999,Salt Marsh,Trelawny,
+18.4518582,-77.7085247,Bounty Hall,Trelawny,
+18.4153066,-77.5418791,Clarks Town,Trelawny,
+0.0028410369185745115,-53.675015905421056,Deeside,Trelawny,
+18.1925,-76.9225,Bunkers Hill,Trelawny,
+18.335778100000002,-77.51427199999999,Alps,Trelawny,
+18.4056917,-77.5948946,Duanvale,Trelawny,
+18.403422600000003,-77.560509,Kinloss,Trelawny,
+18.4704799,-77.6600552,Martha Brae,Trelawny,
+18.3907938,-77.627018,Sherwood Content,Trelawny,
+0.0028410369185745115,-53.675015905421056,Samuels Prospect,Trelawny,
+18.4567641,-77.6178125,Daniel Town,Trelawny,
+18.4126718,-77.4802353,Jackson Town,Trelawny,
+18.458508600000002,-77.5449371,Spicy Hill,Trelawny,
+18.440133300000003,-77.7452445,Hampden,Trelawny,
+18.263333300000003,-77.9897222,Orange Hill,Westmoreland,
+18.326958899999997,-78.2305758,Jerusalem,Westmoreland,
+18.3166667,-78.1,Burnt Savannah,Westmoreland,
+18.2925319,-78.02167920000001,Haddo,Westmoreland,
+18.2259951,-78.1308761,Savannah-la-mar Business Dist.,Westmoreland,
+18.221877199999998,-78.10779670000001,Smithfield,Westmoreland,
+18.278954199999998,-78.1421905,Georges Plain,Westmoreland,
+18.3055556,-78.0658333,Fort Williams,Westmoreland,
+18.2850216,-78.2528652,Paul Island,Westmoreland,
+18.319454800000003,-78.1396496,Town Head,Westmoreland,
+18.2582307,-78.0908651,Hertford,Westmoreland,
+18.2775801,-78.30457679999999,Shefield,Westmoreland,
+18.3089722,-78.1504116,Truro,Westmoreland,
+0.0028173447596241356,-61.547707745551676,Strathbogie,Westmoreland,
+18.229494600000002,-78.14165600000001,Llandilo,Westmoreland,
+18.207138399999998,-78.04379499999999,Cave,Westmoreland,
+18.251213699999997,-78.32849190000002,Mount Airy,Westmoreland,
+18.2753015,-78.2377205,Delveland,Westmoreland,
+0.0028173447596241356,-61.547707745551676,Mackfield,Westmoreland,
+0.0028173447596241356,-61.547707745551676,Gooden's River,Westmoreland,
+0.0028173447596241356,-61.547707745551676,Chantilly,Westmoreland,
+18.2798539,-78.0288139,Whithorn,Westmoreland,
+18.2273009,-78.2251136,Broughton,Westmoreland,
+18.0943972,-77.9667267,Whitehouse,Westmoreland,
+18.2983206,-77.99516559999999,Mount Stewart,Westmoreland,
+18.2281151,-78.13548709999999,Seaton Crescent,Westmoreland,
+18.2598908,-78.13581740000001,Three Mile River,Westmoreland,
+18.2914145,-77.9888917,Cornwall Mountian,Westmoreland,
+18.2871307,-78.19900990000001,Fullersfield,Westmoreland,

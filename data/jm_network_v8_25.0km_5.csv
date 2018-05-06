@@ -1,0 +1,1898 @@
+Source,Target,Type,Weight
+Above Rocks,Annotto Bay,Undirected,1
+Above Rocks,Bog Walk,Undirected,1
+Above Rocks,Constant Spring,Undirected,1
+Above Rocks,Ewarton,Undirected,1
+Above Rocks,Gordon Town,Undirected,1
+Albert Town,Alexandria,Undirected,1
+Albert Town,Balaclava,Undirected,1
+Albert Town,Brown's Town,Undirected,1
+Albert Town,Cave Valley,Undirected,1
+Albert Town,Christiana,Undirected,1
+Alexandria,Albert Town,Undirected,1
+Alexandria,Bamboo,Undirected,1
+Alexandria,Brown's Town,Undirected,1
+Alexandria,Cave Valley,Undirected,1
+Alligator Pond,Bull Savanna,Undirected,1
+Alligator Pond,Malvern,Undirected,1
+Alligator Pond,Mandeville,Undirected,1
+Alligator Pond,Nain,Undirected,1
+Alligator Pond,Porus,Undirected,1
+Anchovy,Bethel Town,Undirected,1
+Anchovy,Cambridge,Undirected,1
+Anchovy,Cascade,Undirected,1
+Anchovy,Darliston,Undirected,1
+Anchovy,Maroon Town,Undirected,1
+Annotto Bay,Above Rocks,Undirected,1
+Annotto Bay,Buff Bay,Undirected,1
+Annotto Bay,Constant Spring,Undirected,1
+Annotto Bay,Guy's Hill,Undirected,1
+Balaclava,Albert Town,Undirected,1
+Balaclava,Christiana,Undirected,1
+Balaclava,Coleyville,Undirected,1
+Balaclava,Lacovia,Undirected,1
+Bamboo,Alexandria,Undirected,1
+Bamboo,Brown's Town,Undirected,1
+Bamboo,Cave Valley,Undirected,1
+Bamboo,Claremont,Undirected,1
+Bath,Dalvey,Undirected,1
+Bath,Golden Grove,Undirected,1
+Bath,Manchioneal,Undirected,1
+Bath,Moore Town,Undirected,1
+Bath,Morant Bay,Undirected,1
+Bethel Town,Anchovy,Undirected,1
+Bethel Town,Bluefields,Undirected,1
+Bethel Town,Cambridge,Undirected,1
+Bethel Town,Cascade,Undirected,1
+Black River,Bluefields,Undirected,1
+Black River,Brompton,Undirected,1
+Black River,Lacovia,Undirected,1
+Black River,Maggotty,Undirected,1
+Black River,Malvern,Undirected,1
+Bluefields,Bethel Town,Undirected,1
+Bluefields,Black River,Undirected,1
+Bluefields,Brompton,Undirected,1
+Bog Walk,Above Rocks,Undirected,1
+Bog Walk,Croft's Hill,Undirected,1
+Bog Walk,Ewarton,Undirected,1
+Bog Walk,Guy's Hill,Undirected,1
+Brompton,Black River,Undirected,1
+Brompton,Bluefields,Undirected,1
+Brompton,Darliston,Undirected,1
+Brown's Town,Albert Town,Undirected,1
+Brown's Town,Alexandria,Undirected,1
+Buff Bay,Annotto Bay,Undirected,1
+Buff Bay,Constant Spring,Undirected,1
+Buff Bay,Gordon Town,Undirected,1
+Buff Bay,Highgate,Undirected,1
+Bull Savanna,Alligator Pond,Undirected,1
+Bull Savanna,Malvern,Undirected,1
+Bull Savanna,Mandeville,Undirected,1
+Bull Savanna,Nain,Undirected,1
+Cambridge,Anchovy,Undirected,1
+Cambridge,Bethel Town,Undirected,1
+Cambridge,Bluefields,Undirected,1
+Cascade,Anchovy,Undirected,1
+Cascade,Bethel Town,Undirected,1
+Cascade,Cambridge,Undirected,1
+Cave Valley,Albert Town,Undirected,1
+Cave Valley,Alexandria,Undirected,1
+Chapelton,Cave Valley,Undirected,1
+Chapelton,Croft's Hill,Undirected,1
+Chapelton,Ewarton,Undirected,1
+Chapelton,Frankfield,Undirected,1
+Chapelton,Hayes,Undirected,1
+Christiana,Albert Town,Undirected,1
+Christiana,Alexandria,Undirected,1
+Christiana,Balaclava,Undirected,1
+Claremont,Alexandria,Undirected,1
+Claremont,Bamboo,Undirected,1
+Claremont,Brown's Town,Undirected,1
+Claremont,Cave Valley,Undirected,1
+Clark's Town,Albert Town,Undirected,1
+Clark's Town,Brown's Town,Undirected,1
+Clark's Town,Coleyville,Undirected,1
+Clark's Town,Discovery Bay (Dry Harbour),Undirected,1
+Clark's Town,Duncans,Undirected,1
+Coleyville,Albert Town,Undirected,1
+Coleyville,Alexandria,Undirected,1
+Coleyville,Balaclava,Undirected,1
+Constant Spring,Above Rocks,Undirected,1
+Constant Spring,Annotto Bay,Undirected,1
+Croft's Hill,Alexandria,Undirected,1
+Croft's Hill,Bog Walk,Undirected,1
+Croft's Hill,Cave Valley,Undirected,1
+Dalvey,Bath,Undirected,1
+Dalvey,Golden Grove,Undirected,1
+Dalvey,Manchioneal,Undirected,1
+Dalvey,Morant Bay,Undirected,1
+Darliston,Anchovy,Undirected,1
+Darliston,Bethel Town,Undirected,1
+Darliston,Bluefields,Undirected,1
+Discovery Bay (Dry Harbour),Alexandria,Undirected,1
+Discovery Bay (Dry Harbour),Bamboo,Undirected,1
+Discovery Bay (Dry Harbour),Brown's Town,Undirected,1
+Discovery Bay (Dry Harbour),Cave Valley,Undirected,1
+Duncans,Albert Town,Undirected,1
+Duncans,Brown's Town,Undirected,1
+Duncans,Clark's Town,Undirected,1
+Duncans,Discovery Bay (Dry Harbour),Undirected,1
+Easington,Constant Spring,Undirected,1
+Easington,Gordon Town,Undirected,1
+Easington,Kingston,Undirected,1
+Easington,Mavis Bank,Undirected,1
+Easington,Moore Town,Undirected,1
+Ewarton,Above Rocks,Undirected,1
+Ewarton,Bog Walk,Undirected,1
+Falmouth,Albert Town,Undirected,1
+Falmouth,Clark's Town,Undirected,1
+Falmouth,Duncans,Undirected,1
+Falmouth,Maroon Town,Undirected,1
+Falmouth,Rio Bueno,Undirected,1
+Frankfield,Alexandria,Undirected,1
+Frankfield,Cave Valley,Undirected,1
+Frankfield,Chapelton,Undirected,1
+Frankfield,Christiana,Undirected,1
+Frome,Bethel Town,Undirected,1
+Frome,Bluefields,Undirected,1
+Frome,Cascade,Undirected,1
+Frome,Darliston,Undirected,1
+Frome,Grange Hill,Undirected,1
+Gayle,Claremont,Undirected,1
+Gayle,Ewarton,Undirected,1
+Gayle,Guy's Hill,Undirected,1
+Gayle,Highgate,Undirected,1
+Gayle,Islington,Undirected,1
+Golden Grove,Bath,Undirected,1
+Golden Grove,Dalvey,Undirected,1
+Golden Grove,Manchioneal,Undirected,1
+Gordon Town,Above Rocks,Undirected,1
+Gordon Town,Buff Bay,Undirected,1
+Grange Hill,Cascade,Undirected,1
+Grange Hill,Frome,Undirected,1
+Grange Hill,Hopewell,Undirected,1
+Grange Hill,Little London,Undirected,1
+Guy's Hill,Above Rocks,Undirected,1
+Guy's Hill,Annotto Bay,Undirected,1
+Hayes,Chapelton,Undirected,1
+Hayes,Lionel Town,Undirected,1
+Hayes,May Pen,Undirected,1
+Hayes,Old Harbour,Undirected,1
+Highgate,Above Rocks,Undirected,1
+Highgate,Annotto Bay,Undirected,1
+Highgate,Buff Bay,Undirected,1
+Hope Bay,Annotto Bay,Undirected,1
+Hope Bay,Buff Bay,Undirected,1
+Hope Bay,Gordon Town,Undirected,1
+Hope Bay,Mavis Bank,Undirected,1
+Hope Bay,Moore Town,Undirected,1
+Hopewell,Frome,Undirected,1
+Hopewell,Grange Hill,Undirected,1
+Hopewell,Little London,Undirected,1
+Hopewell,Lucea,Undirected,1
+Islington,Above Rocks,Undirected,1
+Islington,Annotto Bay,Undirected,1
+Islington,Buff Bay,Undirected,1
+Islington,Gayle,Undirected,1
+Kellits,Alexandria,Undirected,1
+Kellits,Bamboo,Undirected,1
+Kellits,Bog Walk,Undirected,1
+Kellits,Cave Valley,Undirected,1
+Kellits,Chapelton,Undirected,1
+Kingston,Above Rocks,Undirected,1
+Kingston,Constant Spring,Undirected,1
+Kingston,Easington,Undirected,1
+Kingston,Gordon Town,Undirected,1
+Lacovia,Balaclava,Undirected,1
+Lacovia,Black River,Undirected,1
+Lacovia,Brompton,Undirected,1
+Linstead,Above Rocks,Undirected,1
+Linstead,Bog Walk,Undirected,1
+Linstead,Croft's Hill,Undirected,1
+Linstead,Ewarton,Undirected,1
+Linstead,Gayle,Undirected,1
+Lionel Town,Hayes,Undirected,1
+Lionel Town,May Pen,Undirected,1
+Lionel Town,Old Harbour,Undirected,1
+Lionel Town,Old Harbour Bay,Undirected,1
+Little London,Bluefields,Undirected,1
+Little London,Cascade,Undirected,1
+Little London,Frome,Undirected,1
+Lluidas Vale,Bog Walk,Undirected,1
+Lluidas Vale,Chapelton,Undirected,1
+Lluidas Vale,Croft's Hill,Undirected,1
+Lluidas Vale,Ewarton,Undirected,1
+Lluidas Vale,Frankfield,Undirected,1
+Lucea,Cascade,Undirected,1
+Lucea,Frome,Undirected,1
+Lucea,Grange Hill,Undirected,1
+Lucea,Hopewell,Undirected,1
+Lucky Hill,Bog Walk,Undirected,1
+Lucky Hill,Claremont,Undirected,1
+Lucky Hill,Ewarton,Undirected,1
+Lucky Hill,Gayle,Undirected,1
+Lucky Hill,Guy's Hill,Undirected,1
+Maggotty,Balaclava,Undirected,1
+Maggotty,Black River,Undirected,1
+Maggotty,Brompton,Undirected,1
+Maggotty,Cambridge,Undirected,1
+Malvern,Alligator Pond,Undirected,1
+Malvern,Balaclava,Undirected,1
+Manchioneal,Bath,Undirected,1
+Manchioneal,Dalvey,Undirected,1
+Mandeville,Alligator Pond,Undirected,1
+Mandeville,Balaclava,Undirected,1
+Mandeville,Bull Savanna,Undirected,1
+Maroon Town,Anchovy,Undirected,1
+Maroon Town,Balaclava,Undirected,1
+Maroon Town,Bethel Town,Undirected,1
+Mavis Bank,Above Rocks,Undirected,1
+Mavis Bank,Buff Bay,Undirected,1
+Mavis Bank,Constant Spring,Undirected,1
+May Pen,Chapelton,Undirected,1
+May Pen,Croft's Hill,Undirected,1
+May Pen,Frankfield,Undirected,1
+Moneague,Bamboo,Undirected,1
+Moneague,Bog Walk,Undirected,1
+Moneague,Claremont,Undirected,1
+Moneague,Croft's Hill,Undirected,1
+Moneague,Ewarton,Undirected,1
+Montego Bay,Anchovy,Undirected,1
+Montego Bay,Bethel Town,Undirected,1
+Montego Bay,Cambridge,Undirected,1
+Montego Bay,Cascade,Undirected,1
+Montego Bay,Maroon Town,Undirected,1
+Moore Town,Bath,Undirected,1
+Moore Town,Easington,Undirected,1
+Morant Bay,Bath,Undirected,1
+Morant Bay,Dalvey,Undirected,1
+Morant Bay,Easington,Undirected,1
+Nain,Alligator Pond,Undirected,1
+Nain,Balaclava,Undirected,1
+Nain,Bull Savanna,Undirected,1
+Negril,Frome,Undirected,1
+Negril,Grange Hill,Undirected,1
+Negril,Hopewell,Undirected,1
+Negril,Little London,Undirected,1
+Negril,Lucea,Undirected,1
+Ocho Rios,Bamboo,Undirected,1
+Ocho Rios,Claremont,Undirected,1
+Ocho Rios,Gayle,Undirected,1
+Ocho Rios,Guy's Hill,Undirected,1
+Ocho Rios,Lucky Hill,Undirected,1
+Old Harbour,Bog Walk,Undirected,1
+Old Harbour,Hayes,Undirected,1
+Old Harbour,Lionel Town,Undirected,1
+Old Harbour Bay,Bog Walk,Undirected,1
+Old Harbour Bay,Hayes,Undirected,1
+Old Harbour Bay,Lionel Town,Undirected,1
+Old Harbour Bay,Lluidas Vale,Undirected,1
+Oracabessa,Gayle,Undirected,1
+Oracabessa,Highgate,Undirected,1
+Oracabessa,Islington,Undirected,1
+Oracabessa,Lucky Hill,Undirected,1
+Oracabessa,Ocho Rios,Undirected,1
+Osbourne Store,Chapelton,Undirected,1
+Osbourne Store,Croft's Hill,Undirected,1
+Osbourne Store,Frankfield,Undirected,1
+Osbourne Store,Hayes,Undirected,1
+Osbourne Store,Kellits,Undirected,1
+Petersfield,Anchovy,Undirected,1
+Petersfield,Bethel Town,Undirected,1
+Petersfield,Bluefields,Undirected,1
+Petersfield,Cambridge,Undirected,1
+Petersfield,Cascade,Undirected,1
+Point Hill,Above Rocks,Undirected,1
+Point Hill,Bog Walk,Undirected,1
+Point Hill,Chapelton,Undirected,1
+Point Hill,Croft's Hill,Undirected,1
+Point Hill,Ewarton,Undirected,1
+Port Antonio,Bath,Undirected,1
+Port Antonio,Hope Bay,Undirected,1
+Port Antonio,Manchioneal,Undirected,1
+Port Antonio,Moore Town,Undirected,1
+Port Antonio,Snow Hill,Undirected,1
+Port Maria,Annotto Bay,Undirected,1
+Port Maria,Gayle,Undirected,1
+Port Maria,Guy's Hill,Undirected,1
+Port Maria,Highgate,Undirected,1
+Port Maria,Islington,Undirected,1
+Port Royal,Above Rocks,Undirected,1
+Port Royal,Constant Spring,Undirected,1
+Port Royal,Gordon Town,Undirected,1
+Port Royal,Kingston,Undirected,1
+Port Royal,Mavis Bank,Undirected,1
+Portmore,Above Rocks,Undirected,1
+Portmore,Bog Walk,Undirected,1
+Portmore,Constant Spring,Undirected,1
+Portmore,Gordon Town,Undirected,1
+Portmore,Kingston,Undirected,1
+Porus,Alligator Pond,Undirected,1
+Porus,Bull Savanna,Undirected,1
+Porus,Chapelton,Undirected,1
+Porus,Christiana,Undirected,1
+Race Course,Hayes,Undirected,1
+Race Course,Lionel Town,Undirected,1
+Race Course,May Pen,Undirected,1
+Race Course,Old Harbour,Undirected,1
+Race Course,Old Harbour Bay,Undirected,1
+Richmond,Above Rocks,Undirected,1
+Richmond,Annotto Bay,Undirected,1
+Richmond,Bog Walk,Undirected,1
+Richmond,Buff Bay,Undirected,1
+Richmond,Constant Spring,Undirected,1
+Rio Bueno,Brown's Town,Undirected,1
+Rio Bueno,Clark's Town,Undirected,1
+Rio Bueno,Discovery Bay (Dry Harbour),Undirected,1
+Rio Bueno,Duncans,Undirected,1
+Riversdale,Above Rocks,Undirected,1
+Riversdale,Annotto Bay,Undirected,1
+Riversdale,Bog Walk,Undirected,1
+Riversdale,Constant Spring,Undirected,1
+Riversdale,Ewarton,Undirected,1
+Rocky Point,Hayes,Undirected,1
+Rocky Point,Lionel Town,Undirected,1
+Rocky Point,May Pen,Undirected,1
+Rocky Point,Old Harbour,Undirected,1
+Rocky Point,Old Harbour Bay,Undirected,1
+Runaway Bay,Alexandria,Undirected,1
+Runaway Bay,Bamboo,Undirected,1
+Runaway Bay,Brown's Town,Undirected,1
+Runaway Bay,Cave Valley,Undirected,1
+Runaway Bay,Claremont,Undirected,1
+Saint Ann's Bay,Alexandria,Undirected,1
+Saint Ann's Bay,Bamboo,Undirected,1
+Saint Ann's Bay,Brown's Town,Undirected,1
+Saint Ann's Bay,Cave Valley,Undirected,1
+Saint Ann's Bay,Claremont,Undirected,1
+Sandy Bay,Anchovy,Undirected,1
+Sandy Bay,Bethel Town,Undirected,1
+Sandy Bay,Cascade,Undirected,1
+Sandy Bay,Frome,Undirected,1
+Sandy Bay,Grange Hill,Undirected,1
+Sanguinetti,Alexandria,Undirected,1
+Sanguinetti,Cave Valley,Undirected,1
+Sanguinetti,Chapelton,Undirected,1
+Sanguinetti,Christiana,Undirected,1
+Sanguinetti,Coleyville,Undirected,1
+Santa Cruz,Balaclava,Undirected,1
+Santa Cruz,Black River,Undirected,1
+Santa Cruz,Brompton,Undirected,1
+Santa Cruz,Lacovia,Undirected,1
+Santa Cruz,Maggotty,Undirected,1
+Savanna-la-Mar,Bethel Town,Undirected,1
+Savanna-la-Mar,Black River,Undirected,1
+Savanna-la-Mar,Bluefields,Undirected,1
+Savanna-la-Mar,Brompton,Undirected,1
+Savanna-la-Mar,Cambridge,Undirected,1
+Seaford Town,Albert Town,Undirected,1
+Seaford Town,Balaclava,Undirected,1
+Seaford Town,Cave Valley,Undirected,1
+Seaford Town,Christiana,Undirected,1
+Seaford Town,Coleyville,Undirected,1
+Seaforth,Bath,Undirected,1
+Seaforth,Dalvey,Undirected,1
+Seaforth,Easington,Undirected,1
+Seaforth,Golden Grove,Undirected,1
+Seaforth,Manchioneal,Undirected,1
+Siloah,Albert Town,Undirected,1
+Siloah,Balaclava,Undirected,1
+Siloah,Black River,Undirected,1
+Siloah,Brompton,Undirected,1
+Siloah,Cambridge,Undirected,1
+Southfield,Alligator Pond,Undirected,1
+Southfield,Bull Savanna,Undirected,1
+Southfield,Lacovia,Undirected,1
+Southfield,Malvern,Undirected,1
+Southfield,Nain,Undirected,1
+Spanish Town,Above Rocks,Undirected,1
+Spanish Town,Bog Walk,Undirected,1
+Spanish Town,Constant Spring,Undirected,1
+Spanish Town,Ewarton,Undirected,1
+Spanish Town,Kingston,Undirected,1
+Stony Hill,Above Rocks,Undirected,1
+Stony Hill,Annotto Bay,Undirected,1
+Stony Hill,Buff Bay,Undirected,1
+Stony Hill,Constant Spring,Undirected,1
+Stony Hill,Gordon Town,Undirected,1
+Trinity Ville,Bath,Undirected,1
+Trinity Ville,Easington,Undirected,1
+Trinity Ville,Gordon Town,Undirected,1
+Trinity Ville,Mavis Bank,Undirected,1
+Trinity Ville,Moore Town,Undirected,1
+Ulster Spring,Albert Town,Undirected,1
+Ulster Spring,Alexandria,Undirected,1
+Ulster Spring,Balaclava,Undirected,1
+Ulster Spring,Brown's Town,Undirected,1
+Ulster Spring,Cave Valley,Undirected,1
+Wakefield,Albert Town,Undirected,1
+Wakefield,Anchovy,Undirected,1
+Wakefield,Cambridge,Undirected,1
+Wakefield,Clark's Town,Undirected,1
+Wakefield,Duncans,Undirected,1
+White House,Bethel Town,Undirected,1
+White House,Black River,Undirected,1
+White House,Bluefields,Undirected,1
+White House,Brompton,Undirected,1
+White House,Darliston,Undirected,1
+Williamsfield,Alligator Pond,Undirected,1
+Williamsfield,Balaclava,Undirected,1
+Williamsfield,Bull Savanna,Undirected,1
+Williamsfield,Chapelton,Undirected,1
+Williamsfield,Christiana,Undirected,1
+Yallahs,Bath,Undirected,1
+Yallahs,Easington,Undirected,1
+Yallahs,Gordon Town,Undirected,1
+Yallahs,Mavis Bank,Undirected,1
+Yallahs,Morant Bay,Undirected,1
+Grantham,Chapelton,Undirected,1
+Grantham,Croft's Hill,Undirected,1
+Grantham,Frankfield,Undirected,1
+Grantham,Hayes,Undirected,1
+Grantham,Kellits,Undirected,1
+Mineral Heights,Chapelton,Undirected,1
+Mineral Heights,Croft's Hill,Undirected,1
+Mineral Heights,Hayes,Undirected,1
+Mineral Heights,Lionel Town,Undirected,1
+Mineral Heights,Lluidas Vale,Undirected,1
+May Pen Proper,Chapelton,Undirected,1
+May Pen Proper,Croft's Hill,Undirected,1
+May Pen Proper,Frankfield,Undirected,1
+May Pen Proper,Hayes,Undirected,1
+May Pen Proper,Kellits,Undirected,1
+Longwood,Hayes,Undirected,1
+Longwood,Lionel Town,Undirected,1
+Longwood,May Pen,Undirected,1
+Longwood,Old Harbour,Undirected,1
+Longwood,Old Harbour Bay,Undirected,1
+Copse,Above Rocks,Undirected,1
+Copse,Constant Spring,Undirected,1
+Copse,Easington,Undirected,1
+Copse,Gordon Town,Undirected,1
+Copse,Kingston,Undirected,1
+Logwood,Cascade,Undirected,1
+Logwood,Frome,Undirected,1
+Logwood,Grange Hill,Undirected,1
+Logwood,Hopewell,Undirected,1
+Logwood,Little London,Undirected,1
+Cacoon,Cascade,Undirected,1
+Cacoon,Frome,Undirected,1
+Cacoon,Grange Hill,Undirected,1
+Cacoon,Hopewell,Undirected,1
+Cacoon,Little London,Undirected,1
+Orange Bay,Cascade,Undirected,1
+Orange Bay,Frome,Undirected,1
+Orange Bay,Grange Hill,Undirected,1
+Orange Bay,Hopewell,Undirected,1
+Orange Bay,Little London,Undirected,1
+Ramble,Anchovy,Undirected,1
+Ramble,Bethel Town,Undirected,1
+Ramble,Bluefields,Undirected,1
+Ramble,Cambridge,Undirected,1
+Ramble,Cascade,Undirected,1
+Kingsvale,Cascade,Undirected,1
+Kingsvale,Frome,Undirected,1
+Kingsvale,Grange Hill,Undirected,1
+Kingsvale,Hopewell,Undirected,1
+Kingsvale,Little London,Undirected,1
+Dias,Cascade,Undirected,1
+Dias,Frome,Undirected,1
+Dias,Grange Hill,Undirected,1
+Dias,Hopewell,Undirected,1
+Dias,Little London,Undirected,1
+Jericho,Anchovy,Undirected,1
+Jericho,Bethel Town,Undirected,1
+Jericho,Cascade,Undirected,1
+Jericho,Frome,Undirected,1
+Jericho,Grange Hill,Undirected,1
+Rock Spring,Anchovy,Undirected,1
+Rock Spring,Bethel Town,Undirected,1
+Rock Spring,Cascade,Undirected,1
+Rock Spring,Frome,Undirected,1
+Rock Spring,Grange Hill,Undirected,1
+Lucea West,Cascade,Undirected,1
+Lucea West,Frome,Undirected,1
+Lucea West,Grange Hill,Undirected,1
+Lucea West,Little London,Undirected,1
+Lucea West,Lucea,Undirected,1
+Askenish,Anchovy,Undirected,1
+Askenish,Bethel Town,Undirected,1
+Askenish,Cascade,Undirected,1
+Askenish,Frome,Undirected,1
+Askenish,Grange Hill,Undirected,1
+Lucea East,Cascade,Undirected,1
+Lucea East,Frome,Undirected,1
+Lucea East,Grange Hill,Undirected,1
+Lucea East,Little London,Undirected,1
+Lucea East,Lucea,Undirected,1
+Lances Bay,Cascade,Undirected,1
+Lances Bay,Frome,Undirected,1
+Lances Bay,Grange Hill,Undirected,1
+Lances Bay,Hopewell,Undirected,1
+Lances Bay,Little London,Undirected,1
+Great Valley,Anchovy,Undirected,1
+Great Valley,Bethel Town,Undirected,1
+Great Valley,Cambridge,Undirected,1
+Great Valley,Cascade,Undirected,1
+Great Valley,Darliston,Undirected,1
+Cousins Cove,Cascade,Undirected,1
+Cousins Cove,Frome,Undirected,1
+Cousins Cove,Grange Hill,Undirected,1
+Cousins Cove,Hopewell,Undirected,1
+Cousins Cove,Little London,Undirected,1
+Success,Anchovy,Undirected,1
+Success,Bethel Town,Undirected,1
+Success,Bluefields,Undirected,1
+Success,Cambridge,Undirected,1
+Success,Cascade,Undirected,1
+Santoy,Cascade,Undirected,1
+Santoy,Frome,Undirected,1
+Santoy,Grange Hill,Undirected,1
+Santoy,Hopewell,Undirected,1
+Santoy,Little London,Undirected,1
+Cauldwell,Cascade,Undirected,1
+Cauldwell,Frome,Undirected,1
+Cauldwell,Grange Hill,Undirected,1
+Cauldwell,Hopewell,Undirected,1
+Cauldwell,Little London,Undirected,1
+Mount Peto,Anchovy,Undirected,1
+Mount Peto,Bethel Town,Undirected,1
+Mount Peto,Bluefields,Undirected,1
+Mount Peto,Cambridge,Undirected,1
+Mount Peto,Cascade,Undirected,1
+Maryland,Anchovy,Undirected,1
+Maryland,Bethel Town,Undirected,1
+Maryland,Cascade,Undirected,1
+Maryland,Darliston,Undirected,1
+Maryland,Frome,Undirected,1
+Cacoon Castle,Anchovy,Undirected,1
+Cacoon Castle,Bethel Town,Undirected,1
+Cacoon Castle,Cascade,Undirected,1
+Cacoon Castle,Frome,Undirected,1
+Cacoon Castle,Grange Hill,Undirected,1
+Chester Castle,Anchovy,Undirected,1
+Chester Castle,Bethel Town,Undirected,1
+Chester Castle,Bluefields,Undirected,1
+Chester Castle,Cambridge,Undirected,1
+Chester Castle,Cascade,Undirected,1
+Haddington,Anchovy,Undirected,1
+Haddington,Bethel Town,Undirected,1
+Haddington,Cascade,Undirected,1
+Haddington,Frome,Undirected,1
+Haddington,Grange Hill,Undirected,1
+Pondside,Anchovy,Undirected,1
+Pondside,Bethel Town,Undirected,1
+Pondside,Cambridge,Undirected,1
+Pondside,Cascade,Undirected,1
+Pondside,Darliston,Undirected,1
+March Town,Cascade,Undirected,1
+March Town,Frome,Undirected,1
+March Town,Grange Hill,Undirected,1
+March Town,Hopewell,Undirected,1
+March Town,Little London,Undirected,1
+East Down Town,Above Rocks,Undirected,1
+East Down Town,Constant Spring,Undirected,1
+East Down Town,Easington,Undirected,1
+East Down Town,Gordon Town,Undirected,1
+East Down Town,Kingston,Undirected,1
+Denham Town,Above Rocks,Undirected,1
+Denham Town,Bog Walk,Undirected,1
+Denham Town,Constant Spring,Undirected,1
+Denham Town,Gordon Town,Undirected,1
+Denham Town,Kingston,Undirected,1
+Central Down Town,Above Rocks,Undirected,1
+Central Down Town,Bog Walk,Undirected,1
+Central Down Town,Constant Spring,Undirected,1
+Central Down Town,Easington,Undirected,1
+Central Down Town,Gordon Town,Undirected,1
+Passmore Town,Above Rocks,Undirected,1
+Passmore Town,Constant Spring,Undirected,1
+Passmore Town,Easington,Undirected,1
+Passmore Town,Gordon Town,Undirected,1
+Passmore Town,Kingston,Undirected,1
+Rollington Town,Above Rocks,Undirected,1
+Rollington Town,Constant Spring,Undirected,1
+Rollington Town,Easington,Undirected,1
+Rollington Town,Gordon Town,Undirected,1
+Rollington Town,Kingston,Undirected,1
+D'Aguilar Town/ Rennock Lodge,Above Rocks,Undirected,1
+D'Aguilar Town/ Rennock Lodge,Bog Walk,Undirected,1
+D'Aguilar Town/ Rennock Lodge,Constant Spring,Undirected,1
+D'Aguilar Town/ Rennock Lodge,Easington,Undirected,1
+D'Aguilar Town/ Rennock Lodge,Gordon Town,Undirected,1
+West Down Town,Above Rocks,Undirected,1
+West Down Town,Constant Spring,Undirected,1
+West Down Town,Easington,Undirected,1
+West Down Town,Gordon Town,Undirected,1
+West Down Town,Kingston,Undirected,1
+Tivoli Gardens,Above Rocks,Undirected,1
+Tivoli Gardens,Constant Spring,Undirected,1
+Tivoli Gardens,Easington,Undirected,1
+Tivoli Gardens,Gordon Town,Undirected,1
+Tivoli Gardens,Kingston,Undirected,1
+Newton Square,Above Rocks,Undirected,1
+Newton Square,Bog Walk,Undirected,1
+Newton Square,Constant Spring,Undirected,1
+Newton Square,Gordon Town,Undirected,1
+Newton Square,Kingston,Undirected,1
+Kingston Gardens,Above Rocks,Undirected,1
+Kingston Gardens,Bog Walk,Undirected,1
+Kingston Gardens,Constant Spring,Undirected,1
+Kingston Gardens,Gordon Town,Undirected,1
+Kingston Gardens,Kingston,Undirected,1
+Bournemouth Gardens,Above Rocks,Undirected,1
+Bournemouth Gardens,Constant Spring,Undirected,1
+Bournemouth Gardens,Easington,Undirected,1
+Bournemouth Gardens,Gordon Town,Undirected,1
+Bournemouth Gardens,Kingston,Undirected,1
+Rae Town,Above Rocks,Undirected,1
+Rae Town,Bog Walk,Undirected,1
+Rae Town,Constant Spring,Undirected,1
+Rae Town,Easington,Undirected,1
+Rae Town,Gordon Town,Undirected,1
+Allman Town,Above Rocks,Undirected,1
+Allman Town,Constant Spring,Undirected,1
+Allman Town,Easington,Undirected,1
+Allman Town,Gordon Town,Undirected,1
+Allman Town,Kingston,Undirected,1
+Manley Meadows,Above Rocks,Undirected,1
+Manley Meadows,Constant Spring,Undirected,1
+Manley Meadows,Easington,Undirected,1
+Manley Meadows,Gordon Town,Undirected,1
+Manley Meadows,Kingston,Undirected,1
+Franklyn Town,Above Rocks,Undirected,1
+Franklyn Town,Constant Spring,Undirected,1
+Franklyn Town,Easington,Undirected,1
+Franklyn Town,Gordon Town,Undirected,1
+Franklyn Town,Kingston,Undirected,1
+Norman Gardens,Above Rocks,Undirected,1
+Norman Gardens,Constant Spring,Undirected,1
+Norman Gardens,Easington,Undirected,1
+Norman Gardens,Gordon Town,Undirected,1
+Norman Gardens,Kingston,Undirected,1
+Fletchers Land,Above Rocks,Undirected,1
+Fletchers Land,Constant Spring,Undirected,1
+Fletchers Land,Easington,Undirected,1
+Fletchers Land,Gordon Town,Undirected,1
+Fletchers Land,Kingston,Undirected,1
+Hatfield,Alligator Pond,Undirected,1
+Hatfield,Balaclava,Undirected,1
+Hatfield,Bull Savanna,Undirected,1
+Hatfield,Christiana,Undirected,1
+Hatfield,Coleyville,Undirected,1
+Mandeville Proper,Alligator Pond,Undirected,1
+Mandeville Proper,Balaclava,Undirected,1
+Mandeville Proper,Bull Savanna,Undirected,1
+Mandeville Proper,Christiana,Undirected,1
+Mandeville Proper,Coleyville,Undirected,1
+Newport,Alligator Pond,Undirected,1
+Newport,Bull Savanna,Undirected,1
+Newport,Malvern,Undirected,1
+Newport,Mandeville,Undirected,1
+Newport,Nain,Undirected,1
+Knockpatrick,Alligator Pond,Undirected,1
+Knockpatrick,Balaclava,Undirected,1
+Knockpatrick,Bull Savanna,Undirected,1
+Knockpatrick,Christiana,Undirected,1
+Knockpatrick,Frankfield,Undirected,1
+New Green,Alligator Pond,Undirected,1
+New Green,Balaclava,Undirected,1
+New Green,Bull Savanna,Undirected,1
+New Green,Christiana,Undirected,1
+New Green,Coleyville,Undirected,1
+Royal Flat,Alligator Pond,Undirected,1
+Royal Flat,Balaclava,Undirected,1
+Royal Flat,Bull Savanna,Undirected,1
+Royal Flat,Chapelton,Undirected,1
+Royal Flat,Christiana,Undirected,1
+Part of Spaldings,Albert Town,Undirected,1
+Part of Spaldings,Alexandria,Undirected,1
+Part of Spaldings,Balaclava,Undirected,1
+Part of Spaldings,Cave Valley,Undirected,1
+Part of Spaldings,Chapelton,Undirected,1
+Snow Hill,Buff Bay,Undirected,1
+Snow Hill,Hope Bay,Undirected,1
+Snow Hill,Moore Town,Undirected,1
+Snow Hill,Port Antonio,Undirected,1
+Central Port Antonio,Buff Bay,Undirected,1
+Central Port Antonio,Hope Bay,Undirected,1
+Central Port Antonio,Manchioneal,Undirected,1
+Central Port Antonio,Moore Town,Undirected,1
+Central Port Antonio,Port Antonio,Undirected,1
+Windsor Forest,Bath,Undirected,1
+Windsor Forest,Golden Grove,Undirected,1
+Windsor Forest,Manchioneal,Undirected,1
+Windsor Forest,Moore Town,Undirected,1
+Windsor Forest,Port Antonio,Undirected,1
+Norwich,Buff Bay,Undirected,1
+Norwich,Hope Bay,Undirected,1
+Norwich,Moore Town,Undirected,1
+Norwich,Port Antonio,Undirected,1
+Norwich,Snow Hill,Undirected,1
+Mona Heights,Above Rocks,Undirected,1
+Mona Heights,Constant Spring,Undirected,1
+Mona Heights,Easington,Undirected,1
+Mona Heights,Gordon Town,Undirected,1
+Mona Heights,Kingston,Undirected,1
+Seaward Pen,Above Rocks,Undirected,1
+Seaward Pen,Bog Walk,Undirected,1
+Seaward Pen,Constant Spring,Undirected,1
+Seaward Pen,Gordon Town,Undirected,1
+Seaward Pen,Kingston,Undirected,1
+Bull Bay/ Seven Mile,Constant Spring,Undirected,1
+Bull Bay/ Seven Mile,Easington,Undirected,1
+Bull Bay/ Seven Mile,Gordon Town,Undirected,1
+Bull Bay/ Seven Mile,Kingston,Undirected,1
+Bull Bay/ Seven Mile,Mavis Bank,Undirected,1
+Delacree Park/ Union Gardens,Above Rocks,Undirected,1
+Delacree Park/ Union Gardens,Bog Walk,Undirected,1
+Delacree Park/ Union Gardens,Constant Spring,Undirected,1
+Delacree Park/ Union Gardens,Easington,Undirected,1
+Delacree Park/ Union Gardens,Gordon Town,Undirected,1
+University,Above Rocks,Undirected,1
+University,Constant Spring,Undirected,1
+University,Easington,Undirected,1
+University,Gordon Town,Undirected,1
+University,Kingston,Undirected,1
+Harbour View,Above Rocks,Undirected,1
+Harbour View,Constant Spring,Undirected,1
+Harbour View,Easington,Undirected,1
+Harbour View,Gordon Town,Undirected,1
+Harbour View,Kingston,Undirected,1
+Red Hills (Rural),Above Rocks,Undirected,1
+Red Hills (Rural),Bog Walk,Undirected,1
+Red Hills (Rural),Constant Spring,Undirected,1
+Red Hills (Rural),Gordon Town,Undirected,1
+Red Hills (Rural),Kingston,Undirected,1
+Norbrook,Above Rocks,Undirected,1
+Norbrook,Annotto Bay,Undirected,1
+Norbrook,Buff Bay,Undirected,1
+Norbrook,Constant Spring,Undirected,1
+Norbrook,Easington,Undirected,1
+Lawrence Tavern,Above Rocks,Undirected,1
+Lawrence Tavern,Annotto Bay,Undirected,1
+Lawrence Tavern,Bog Walk,Undirected,1
+Lawrence Tavern,Buff Bay,Undirected,1
+Lawrence Tavern,Constant Spring,Undirected,1
+Delacree Pen,Above Rocks,Undirected,1
+Delacree Pen,Bog Walk,Undirected,1
+Delacree Pen,Constant Spring,Undirected,1
+Delacree Pen,Easington,Undirected,1
+Delacree Pen,Gordon Town,Undirected,1
+Greenwich Town/ Newport West,Above Rocks,Undirected,1
+Greenwich Town/ Newport West,Constant Spring,Undirected,1
+Greenwich Town/ Newport West,Easington,Undirected,1
+Greenwich Town/ Newport West,Gordon Town,Undirected,1
+Greenwich Town/ Newport West,Kingston,Undirected,1
+Tower Hill,Above Rocks,Undirected,1
+Tower Hill,Bog Walk,Undirected,1
+Tower Hill,Constant Spring,Undirected,1
+Tower Hill,Gordon Town,Undirected,1
+Tower Hill,Kingston,Undirected,1
+Trench Town,Above Rocks,Undirected,1
+Trench Town,Constant Spring,Undirected,1
+Trench Town,Easington,Undirected,1
+Trench Town,Gordon Town,Undirected,1
+Trench Town,Kingston,Undirected,1
+Waterhouse,Above Rocks,Undirected,1
+Waterhouse,Bog Walk,Undirected,1
+Waterhouse,Constant Spring,Undirected,1
+Waterhouse,Gordon Town,Undirected,1
+Waterhouse,Kingston,Undirected,1
+Grants Pen,Above Rocks,Undirected,1
+Grants Pen,Constant Spring,Undirected,1
+Grants Pen,Easington,Undirected,1
+Grants Pen,Gordon Town,Undirected,1
+Grants Pen,Kingston,Undirected,1
+Whitehall,Above Rocks,Undirected,1
+Whitehall,Bog Walk,Undirected,1
+Whitehall,Constant Spring,Undirected,1
+Whitehall,Gordon Town,Undirected,1
+Whitehall,Kingston,Undirected,1
+Havendale,Above Rocks,Undirected,1
+Havendale,Annotto Bay,Undirected,1
+Havendale,Bog Walk,Undirected,1
+Havendale,Buff Bay,Undirected,1
+Havendale,Constant Spring,Undirected,1
+Barbican,Above Rocks,Undirected,1
+Barbican,Constant Spring,Undirected,1
+Barbican,Easington,Undirected,1
+Barbican,Gordon Town,Undirected,1
+Barbican,Kingston,Undirected,1
+Cavaliers,Above Rocks,Undirected,1
+Cavaliers,Annotto Bay,Undirected,1
+Cavaliers,Bog Walk,Undirected,1
+Cavaliers,Buff Bay,Undirected,1
+Cavaliers,Constant Spring,Undirected,1
+Roehampton,Above Rocks,Undirected,1
+Roehampton,Bog Walk,Undirected,1
+Roehampton,Constant Spring,Undirected,1
+Roehampton,Gordon Town,Undirected,1
+Roehampton,Kingston,Undirected,1
+Cross Roads,Above Rocks,Undirected,1
+Cross Roads,Constant Spring,Undirected,1
+Cross Roads,Easington,Undirected,1
+Cross Roads,Gordon Town,Undirected,1
+Cross Roads,Kingston,Undirected,1
+Pembroke Hall,Above Rocks,Undirected,1
+Pembroke Hall,Bog Walk,Undirected,1
+Pembroke Hall,Constant Spring,Undirected,1
+Pembroke Hall,Gordon Town,Undirected,1
+Pembroke Hall,Kingston,Undirected,1
+Kencot,Above Rocks,Undirected,1
+Kencot,Constant Spring,Undirected,1
+Kencot,Easington,Undirected,1
+Kencot,Gordon Town,Undirected,1
+Kencot,Kingston,Undirected,1
+Vineyard Town,Above Rocks,Undirected,1
+Vineyard Town,Constant Spring,Undirected,1
+Vineyard Town,Easington,Undirected,1
+Vineyard Town,Gordon Town,Undirected,1
+Vineyard Town,Kingston,Undirected,1
+Hope Tavern,Above Rocks,Undirected,1
+Hope Tavern,Buff Bay,Undirected,1
+Hope Tavern,Constant Spring,Undirected,1
+Hope Tavern,Easington,Undirected,1
+Hope Tavern,Gordon Town,Undirected,1
+Drewsland,Above Rocks,Undirected,1
+Drewsland,Bog Walk,Undirected,1
+Drewsland,Constant Spring,Undirected,1
+Drewsland,Gordon Town,Undirected,1
+Drewsland,Kingston,Undirected,1
+Beverley Hills,Above Rocks,Undirected,1
+Beverley Hills,Constant Spring,Undirected,1
+Beverley Hills,Easington,Undirected,1
+Beverley Hills,Gordon Town,Undirected,1
+Beverley Hills,Kingston,Undirected,1
+Patrick City,Above Rocks,Undirected,1
+Patrick City,Bog Walk,Undirected,1
+Patrick City,Constant Spring,Undirected,1
+Patrick City,Gordon Town,Undirected,1
+Patrick City,Kingston,Undirected,1
+Liguanea,Above Rocks,Undirected,1
+Liguanea,Constant Spring,Undirected,1
+Liguanea,Easington,Undirected,1
+Liguanea,Gordon Town,Undirected,1
+Liguanea,Kingston,Undirected,1
+Hermitage,Above Rocks,Undirected,1
+Hermitage,Constant Spring,Undirected,1
+Hermitage,Easington,Undirected,1
+Hermitage,Gordon Town,Undirected,1
+Hermitage,Kingston,Undirected,1
+Kintyre,Above Rocks,Undirected,1
+Kintyre,Constant Spring,Undirected,1
+Kintyre,Easington,Undirected,1
+Kintyre,Gordon Town,Undirected,1
+Kintyre,Kingston,Undirected,1
+Cassia Park,Above Rocks,Undirected,1
+Cassia Park,Bog Walk,Undirected,1
+Cassia Park,Constant Spring,Undirected,1
+Cassia Park,Easington,Undirected,1
+Cassia Park,Gordon Town,Undirected,1
+Three Oaks/ Glendale,Above Rocks,Undirected,1
+Three Oaks/ Glendale,Bog Walk,Undirected,1
+Three Oaks/ Glendale,Constant Spring,Undirected,1
+Three Oaks/ Glendale,Gordon Town,Undirected,1
+Three Oaks/ Glendale,Kingston,Undirected,1
+Whitfield Town,Above Rocks,Undirected,1
+Whitfield Town,Constant Spring,Undirected,1
+Whitfield Town,Easington,Undirected,1
+Whitfield Town,Gordon Town,Undirected,1
+Whitfield Town,Kingston,Undirected,1
+Cherry Gardens,Above Rocks,Undirected,1
+Cherry Gardens,Buff Bay,Undirected,1
+Cherry Gardens,Constant Spring,Undirected,1
+Cherry Gardens,Easington,Undirected,1
+Cherry Gardens,Gordon Town,Undirected,1
+Half-Way-Tree,Above Rocks,Undirected,1
+Half-Way-Tree,Constant Spring,Undirected,1
+Half-Way-Tree,Easington,Undirected,1
+Half-Way-Tree,Gordon Town,Undirected,1
+Half-Way-Tree,Kingston,Undirected,1
+Boucher Park,Above Rocks,Undirected,1
+Boucher Park,Annotto Bay,Undirected,1
+Boucher Park,Buff Bay,Undirected,1
+Boucher Park,Constant Spring,Undirected,1
+Boucher Park,Easington,Undirected,1
+Molynes Four Roads,Above Rocks,Undirected,1
+Molynes Four Roads,Constant Spring,Undirected,1
+Molynes Four Roads,Easington,Undirected,1
+Molynes Four Roads,Gordon Town,Undirected,1
+Molynes Four Roads,Kingston,Undirected,1
+Hope Pastures/ UTECH,Above Rocks,Undirected,1
+Hope Pastures/ UTECH,Buff Bay,Undirected,1
+Hope Pastures/ UTECH,Constant Spring,Undirected,1
+Hope Pastures/ UTECH,Easington,Undirected,1
+Hope Pastures/ UTECH,Gordon Town,Undirected,1
+Eastwood Park Gardens,Above Rocks,Undirected,1
+Eastwood Park Gardens,Constant Spring,Undirected,1
+Eastwood Park Gardens,Easington,Undirected,1
+Eastwood Park Gardens,Gordon Town,Undirected,1
+Eastwood Park Gardens,Kingston,Undirected,1
+August Town,Above Rocks,Undirected,1
+August Town,Constant Spring,Undirected,1
+August Town,Easington,Undirected,1
+August Town,Gordon Town,Undirected,1
+August Town,Kingston,Undirected,1
+Golden Spring,Above Rocks,Undirected,1
+Golden Spring,Annotto Bay,Undirected,1
+Golden Spring,Bog Walk,Undirected,1
+Golden Spring,Buff Bay,Undirected,1
+Golden Spring,Constant Spring,Undirected,1
+Cockburn Gardens,Above Rocks,Undirected,1
+Cockburn Gardens,Bog Walk,Undirected,1
+Cockburn Gardens,Constant Spring,Undirected,1
+Cockburn Gardens,Gordon Town,Undirected,1
+Cockburn Gardens,Kingston,Undirected,1
+Molynes Gardens,Above Rocks,Undirected,1
+Molynes Gardens,Bog Walk,Undirected,1
+Molynes Gardens,Constant Spring,Undirected,1
+Molynes Gardens,Gordon Town,Undirected,1
+Molynes Gardens,Kingston,Undirected,1
+Duhaney Park,Above Rocks,Undirected,1
+Duhaney Park,Bog Walk,Undirected,1
+Duhaney Park,Constant Spring,Undirected,1
+Duhaney Park,Gordon Town,Undirected,1
+Duhaney Park,Kingston,Undirected,1
+Oaklands,Above Rocks,Undirected,1
+Oaklands,Bog Walk,Undirected,1
+Oaklands,Constant Spring,Undirected,1
+Oaklands,Easington,Undirected,1
+Oaklands,Gordon Town,Undirected,1
+Hughenden,Above Rocks,Undirected,1
+Hughenden,Bog Walk,Undirected,1
+Hughenden,Constant Spring,Undirected,1
+Hughenden,Gordon Town,Undirected,1
+Hughenden,Kingston,Undirected,1
+Marverley,Above Rocks,Undirected,1
+Marverley,Bog Walk,Undirected,1
+Marverley,Constant Spring,Undirected,1
+Marverley,Easington,Undirected,1
+Marverley,Gordon Town,Undirected,1
+Richmond Park,Above Rocks,Undirected,1
+Richmond Park,Bog Walk,Undirected,1
+Richmond Park,Constant Spring,Undirected,1
+Richmond Park,Easington,Undirected,1
+Richmond Park,Gordon Town,Undirected,1
+Forest Hills/ Plantation Height,Above Rocks,Undirected,1
+Forest Hills/ Plantation Height,Bog Walk,Undirected,1
+Forest Hills/ Plantation Height,Constant Spring,Undirected,1
+Forest Hills/ Plantation Height,Gordon Town,Undirected,1
+Forest Hills/ Plantation Height,Kingston,Undirected,1
+Jones Town,Above Rocks,Undirected,1
+Jones Town,Constant Spring,Undirected,1
+Jones Town,Easington,Undirected,1
+Jones Town,Gordon Town,Undirected,1
+Jones Town,Kingston,Undirected,1
+Arlene Gardens,Above Rocks,Undirected,1
+Arlene Gardens,Bog Walk,Undirected,1
+Arlene Gardens,Constant Spring,Undirected,1
+Arlene Gardens,Gordon Town,Undirected,1
+Arlene Gardens,Kingston,Undirected,1
+Queensborough/ Tunbridge,Above Rocks,Undirected,1
+Queensborough/ Tunbridge,Bog Walk,Undirected,1
+Queensborough/ Tunbridge,Constant Spring,Undirected,1
+Queensborough/ Tunbridge,Gordon Town,Undirected,1
+Queensborough/ Tunbridge,Kingston,Undirected,1
+Mountain View Gardens,Above Rocks,Undirected,1
+Mountain View Gardens,Constant Spring,Undirected,1
+Mountain View Gardens,Easington,Undirected,1
+Mountain View Gardens,Gordon Town,Undirected,1
+Mountain View Gardens,Kingston,Undirected,1
+Zaidie Gardens,Above Rocks,Undirected,1
+Zaidie Gardens,Bog Walk,Undirected,1
+Zaidie Gardens,Constant Spring,Undirected,1
+Zaidie Gardens,Gordon Town,Undirected,1
+Zaidie Gardens,Kingston,Undirected,1
+Trafalgar Park,Above Rocks,Undirected,1
+Trafalgar Park,Constant Spring,Undirected,1
+Trafalgar Park,Easington,Undirected,1
+Trafalgar Park,Gordon Town,Undirected,1
+Trafalgar Park,Kingston,Undirected,1
+Washington Gardens,Above Rocks,Undirected,1
+Washington Gardens,Bog Walk,Undirected,1
+Washington Gardens,Constant Spring,Undirected,1
+Washington Gardens,Gordon Town,Undirected,1
+Washington Gardens,Kingston,Undirected,1
+Drumblair,Above Rocks,Undirected,1
+Drumblair,Constant Spring,Undirected,1
+Drumblair,Easington,Undirected,1
+Drumblair,Gordon Town,Undirected,1
+Drumblair,Kingston,Undirected,1
+Waltham Gardens,Above Rocks,Undirected,1
+Waltham Gardens,Bog Walk,Undirected,1
+Waltham Gardens,Constant Spring,Undirected,1
+Waltham Gardens,Easington,Undirected,1
+Waltham Gardens,Gordon Town,Undirected,1
+Woodford Park,Above Rocks,Undirected,1
+Woodford Park,Constant Spring,Undirected,1
+Woodford Park,Easington,Undirected,1
+Woodford Park,Gordon Town,Undirected,1
+Woodford Park,Kingston,Undirected,1
+Papine,Above Rocks,Undirected,1
+Papine,Constant Spring,Undirected,1
+Papine,Easington,Undirected,1
+Papine,Gordon Town,Undirected,1
+Papine,Kingston,Undirected,1
+Bloxborough,Above Rocks,Undirected,1
+Bloxborough,Annotto Bay,Undirected,1
+Bloxborough,Buff Bay,Undirected,1
+Bloxborough,Constant Spring,Undirected,1
+Bloxborough,Easington,Undirected,1
+Parry Town,Bamboo,Undirected,1
+Parry Town,Claremont,Undirected,1
+Parry Town,Ewarton,Undirected,1
+Parry Town,Gayle,Undirected,1
+Parry Town,Guy's Hill,Undirected,1
+Discovery Bay,Albert Town,Undirected,1
+Discovery Bay,Alexandria,Undirected,1
+Discovery Bay,Bamboo,Undirected,1
+Discovery Bay,Brown's Town,Undirected,1
+Discovery Bay,Cave Valley,Undirected,1
+Browns Town,Albert Town,Undirected,1
+Browns Town,Alexandria,Undirected,1
+Browns Town,Bamboo,Undirected,1
+Browns Town,Brown's Town,Undirected,1
+Browns Town,Cave Valley,Undirected,1
+Macknie,Alexandria,Undirected,1
+Macknie,Bamboo,Undirected,1
+Macknie,Cave Valley,Undirected,1
+Macknie,Chapelton,Undirected,1
+Macknie,Claremont,Undirected,1
+Hinds Town,Alexandria,Undirected,1
+Hinds Town,Bamboo,Undirected,1
+Hinds Town,Brown's Town,Undirected,1
+Hinds Town,Cave Valley,Undirected,1
+Hinds Town,Claremont,Undirected,1
+Exchange,Bamboo,Undirected,1
+Exchange,Claremont,Undirected,1
+Exchange,Gayle,Undirected,1
+Exchange,Guy's Hill,Undirected,1
+Exchange,Highgate,Undirected,1
+Steer Town,Alexandria,Undirected,1
+Steer Town,Bamboo,Undirected,1
+Steer Town,Brown's Town,Undirected,1
+Steer Town,Claremont,Undirected,1
+Steer Town,Discovery Bay (Dry Harbour),Undirected,1
+St. Ann's Bay,Alexandria,Undirected,1
+St. Ann's Bay,Bamboo,Undirected,1
+St. Ann's Bay,Brown's Town,Undirected,1
+St. Ann's Bay,Claremont,Undirected,1
+St. Ann's Bay,Discovery Bay (Dry Harbour),Undirected,1
+Priory,Alexandria,Undirected,1
+Priory,Bamboo,Undirected,1
+Priory,Brown's Town,Undirected,1
+Priory,Cave Valley,Undirected,1
+Priory,Claremont,Undirected,1
+Philadelphia,Alexandria,Undirected,1
+Philadelphia,Bamboo,Undirected,1
+Philadelphia,Brown's Town,Undirected,1
+Philadelphia,Cave Valley,Undirected,1
+Philadelphia,Claremont,Undirected,1
+York Castle,Albert Town,Undirected,1
+York Castle,Alexandria,Undirected,1
+York Castle,Bamboo,Undirected,1
+York Castle,Brown's Town,Undirected,1
+York Castle,Cave Valley,Undirected,1
+Lime Hall,Alexandria,Undirected,1
+Lime Hall,Bamboo,Undirected,1
+Lime Hall,Brown's Town,Undirected,1
+Lime Hall,Cave Valley,Undirected,1
+Lime Hall,Claremont,Undirected,1
+Cole Gate,Bamboo,Undirected,1
+Cole Gate,Claremont,Undirected,1
+Cole Gate,Ewarton,Undirected,1
+Cole Gate,Gayle,Undirected,1
+Cole Gate,Guy's Hill,Undirected,1
+Braeton,Above Rocks,Undirected,1
+Braeton,Bog Walk,Undirected,1
+Braeton,Constant Spring,Undirected,1
+Braeton,Gordon Town,Undirected,1
+Braeton,Kingston,Undirected,1
+Spanish Town Central,Above Rocks,Undirected,1
+Spanish Town Central,Bog Walk,Undirected,1
+Spanish Town Central,Constant Spring,Undirected,1
+Spanish Town Central,Ewarton,Undirected,1
+Spanish Town Central,Kingston,Undirected,1
+Cromarty,Above Rocks,Undirected,1
+Cromarty,Bog Walk,Undirected,1
+Cromarty,Constant Spring,Undirected,1
+Cromarty,Ewarton,Undirected,1
+Cromarty,Kingston,Undirected,1
+Hellshire,Above Rocks,Undirected,1
+Hellshire,Constant Spring,Undirected,1
+Hellshire,Kingston,Undirected,1
+Hellshire,Old Harbour,Undirected,1
+Hellshire,Old Harbour Bay,Undirected,1
+Greater Portmore,Above Rocks,Undirected,1
+Greater Portmore,Bog Walk,Undirected,1
+Greater Portmore,Constant Spring,Undirected,1
+Greater Portmore,Gordon Town,Undirected,1
+Greater Portmore,Kingston,Undirected,1
+Bogwalk,Above Rocks,Undirected,1
+Bogwalk,Bog Walk,Undirected,1
+Bogwalk,Constant Spring,Undirected,1
+Bogwalk,Croft's Hill,Undirected,1
+Bogwalk,Ewarton,Undirected,1
+Hampton Green,Above Rocks,Undirected,1
+Hampton Green,Bog Walk,Undirected,1
+Hampton Green,Constant Spring,Undirected,1
+Hampton Green,Ewarton,Undirected,1
+Hampton Green,Kingston,Undirected,1
+Sligoville,Above Rocks,Undirected,1
+Sligoville,Bog Walk,Undirected,1
+Sligoville,Constant Spring,Undirected,1
+Sligoville,Ewarton,Undirected,1
+Sligoville,Guy's Hill,Undirected,1
+Greendale,Above Rocks,Undirected,1
+Greendale,Bog Walk,Undirected,1
+Greendale,Constant Spring,Undirected,1
+Greendale,Ewarton,Undirected,1
+Greendale,Kingston,Undirected,1
+Ensom,Above Rocks,Undirected,1
+Ensom,Bog Walk,Undirected,1
+Ensom,Constant Spring,Undirected,1
+Ensom,Ewarton,Undirected,1
+Ensom,Kingston,Undirected,1
+Naggo Head,Above Rocks,Undirected,1
+Naggo Head,Bog Walk,Undirected,1
+Naggo Head,Constant Spring,Undirected,1
+Naggo Head,Gordon Town,Undirected,1
+Naggo Head,Kingston,Undirected,1
+Willowdene,Above Rocks,Undirected,1
+Willowdene,Bog Walk,Undirected,1
+Willowdene,Constant Spring,Undirected,1
+Willowdene,Ewarton,Undirected,1
+Willowdene,Kingston,Undirected,1
+Golden Acres,Above Rocks,Undirected,1
+Golden Acres,Bog Walk,Undirected,1
+Golden Acres,Constant Spring,Undirected,1
+Golden Acres,Ewarton,Undirected,1
+Golden Acres,Kingston,Undirected,1
+Bridgeport,Above Rocks,Undirected,1
+Bridgeport,Bog Walk,Undirected,1
+Bridgeport,Constant Spring,Undirected,1
+Bridgeport,Gordon Town,Undirected,1
+Bridgeport,Kingston,Undirected,1
+Gregory Park,Above Rocks,Undirected,1
+Gregory Park,Bog Walk,Undirected,1
+Gregory Park,Constant Spring,Undirected,1
+Gregory Park,Gordon Town,Undirected,1
+Gregory Park,Kingston,Undirected,1
+Old Harbour Road,Above Rocks,Undirected,1
+Old Harbour Road,Bog Walk,Undirected,1
+Old Harbour Road,Constant Spring,Undirected,1
+Old Harbour Road,Ewarton,Undirected,1
+Old Harbour Road,Kingston,Undirected,1
+Central Village,Above Rocks,Undirected,1
+Central Village,Bog Walk,Undirected,1
+Central Village,Constant Spring,Undirected,1
+Central Village,Gordon Town,Undirected,1
+Central Village,Kingston,Undirected,1
+Kitson Town,Above Rocks,Undirected,1
+Kitson Town,Bog Walk,Undirected,1
+Kitson Town,Chapelton,Undirected,1
+Kitson Town,Croft's Hill,Undirected,1
+Kitson Town,Ewarton,Undirected,1
+Waterford,Above Rocks,Undirected,1
+Waterford,Bog Walk,Undirected,1
+Waterford,Constant Spring,Undirected,1
+Waterford,Gordon Town,Undirected,1
+Waterford,Kingston,Undirected,1
+Keystone,Above Rocks,Undirected,1
+Keystone,Bog Walk,Undirected,1
+Keystone,Constant Spring,Undirected,1
+Keystone,Ewarton,Undirected,1
+Keystone,Kingston,Undirected,1
+St. John's East,Above Rocks,Undirected,1
+St. John's East,Bog Walk,Undirected,1
+St. John's East,Constant Spring,Undirected,1
+St. John's East,Ewarton,Undirected,1
+St. John's East,Kingston,Undirected,1
+Troja,Above Rocks,Undirected,1
+Troja,Annotto Bay,Undirected,1
+Troja,Bog Walk,Undirected,1
+Troja,Constant Spring,Undirected,1
+Troja,Ewarton,Undirected,1
+Crescent,Above Rocks,Undirected,1
+Crescent,Bog Walk,Undirected,1
+Crescent,Constant Spring,Undirected,1
+Crescent,Ewarton,Undirected,1
+Crescent,Kingston,Undirected,1
+St. John's West,Above Rocks,Undirected,1
+St. John's West,Bog Walk,Undirected,1
+St. John's West,Croft's Hill,Undirected,1
+St. John's West,Ewarton,Undirected,1
+St. John's West,Kingston,Undirected,1
+Cumberland,Above Rocks,Undirected,1
+Cumberland,Bog Walk,Undirected,1
+Cumberland,Constant Spring,Undirected,1
+Cumberland,Gordon Town,Undirected,1
+Cumberland,Kingston,Undirected,1
+Passage Fort,Above Rocks,Undirected,1
+Passage Fort,Bog Walk,Undirected,1
+Passage Fort,Constant Spring,Undirected,1
+Passage Fort,Gordon Town,Undirected,1
+Passage Fort,Kingston,Undirected,1
+Edgewater,Above Rocks,Undirected,1
+Edgewater,Bog Walk,Undirected,1
+Edgewater,Constant Spring,Undirected,1
+Edgewater,Gordon Town,Undirected,1
+Edgewater,Kingston,Undirected,1
+Independence City,Above Rocks,Undirected,1
+Independence City,Bog Walk,Undirected,1
+Independence City,Constant Spring,Undirected,1
+Independence City,Gordon Town,Undirected,1
+Independence City,Kingston,Undirected,1
+Glengoffe,Above Rocks,Undirected,1
+Glengoffe,Annotto Bay,Undirected,1
+Glengoffe,Bog Walk,Undirected,1
+Glengoffe,Buff Bay,Undirected,1
+Glengoffe,Constant Spring,Undirected,1
+Treasure Beach,Alligator Pond,Undirected,1
+Treasure Beach,Black River,Undirected,1
+Treasure Beach,Brompton,Undirected,1
+Treasure Beach,Bull Savanna,Undirected,1
+Treasure Beach,Lacovia,Undirected,1
+Bigwoods,Alligator Pond,Undirected,1
+Bigwoods,Black River,Undirected,1
+Bigwoods,Brompton,Undirected,1
+Bigwoods,Bull Savanna,Undirected,1
+Bigwoods,Lacovia,Undirected,1
+Thornton,Albert Town,Undirected,1
+Thornton,Balaclava,Undirected,1
+Thornton,Black River,Undirected,1
+Thornton,Brompton,Undirected,1
+Thornton,Cambridge,Undirected,1
+Slipe,Balaclava,Undirected,1
+Slipe,Black River,Undirected,1
+Slipe,Brompton,Undirected,1
+Slipe,Lacovia,Undirected,1
+Slipe,Maggotty,Undirected,1
+Rose Hall,Alligator Pond,Undirected,1
+Rose Hall,Bull Savanna,Undirected,1
+Rose Hall,Lacovia,Undirected,1
+Rose Hall,Malvern,Undirected,1
+Rose Hall,Mandeville,Undirected,1
+Junction,Alligator Pond,Undirected,1
+Junction,Bull Savanna,Undirected,1
+Junction,Lacovia,Undirected,1
+Junction,Malvern,Undirected,1
+Junction,Mandeville,Undirected,1
+Pisgah,Anchovy,Undirected,1
+Pisgah,Balaclava,Undirected,1
+Pisgah,Bethel Town,Undirected,1
+Pisgah,Black River,Undirected,1
+Pisgah,Bluefields,Undirected,1
+Braes River,Alligator Pond,Undirected,1
+Braes River,Balaclava,Undirected,1
+Braes River,Black River,Undirected,1
+Braes River,Bull Savanna,Undirected,1
+Braes River,Christiana,Undirected,1
+Goshen,Balaclava,Undirected,1
+Goshen,Black River,Undirected,1
+Goshen,Brompton,Undirected,1
+Goshen,Bull Savanna,Undirected,1
+Goshen,Christiana,Undirected,1
+Ballards  Valley,Alligator Pond,Undirected,1
+Ballards  Valley,Bull Savanna,Undirected,1
+Ballards  Valley,Lacovia,Undirected,1
+Ballards  Valley,Malvern,Undirected,1
+Ballards  Valley,Mandeville,Undirected,1
+Pedro Plains,Alligator Pond,Undirected,1
+Pedro Plains,Black River,Undirected,1
+Pedro Plains,Bull Savanna,Undirected,1
+Pedro Plains,Lacovia,Undirected,1
+Pedro Plains,Malvern,Undirected,1
+Watchwell,Alligator Pond,Undirected,1
+Watchwell,Black River,Undirected,1
+Watchwell,Brompton,Undirected,1
+Watchwell,Bull Savanna,Undirected,1
+Watchwell,Lacovia,Undirected,1
+Leeds,Alligator Pond,Undirected,1
+Leeds,Balaclava,Undirected,1
+Leeds,Black River,Undirected,1
+Leeds,Brompton,Undirected,1
+Leeds,Bull Savanna,Undirected,1
+Giddy Hall,Balaclava,Undirected,1
+Giddy Hall,Bethel Town,Undirected,1
+Giddy Hall,Black River,Undirected,1
+Giddy Hall,Bluefields,Undirected,1
+Giddy Hall,Brompton,Undirected,1
+Pepper,Alligator Pond,Undirected,1
+Pepper,Balaclava,Undirected,1
+Pepper,Black River,Undirected,1
+Pepper,Bull Savanna,Undirected,1
+Pepper,Christiana,Undirected,1
+Middle Quarters,Balaclava,Undirected,1
+Middle Quarters,Black River,Undirected,1
+Middle Quarters,Bluefields,Undirected,1
+Middle Quarters,Brompton,Undirected,1
+Middle Quarters,Cambridge,Undirected,1
+Top Hill,Alligator Pond,Undirected,1
+Top Hill,Bull Savanna,Undirected,1
+Top Hill,Lacovia,Undirected,1
+Top Hill,Malvern,Undirected,1
+Top Hill,Mandeville,Undirected,1
+Lititz,Alligator Pond,Undirected,1
+Lititz,Bull Savanna,Undirected,1
+Lititz,Lacovia,Undirected,1
+Lititz,Malvern,Undirected,1
+Lititz,Mandeville,Undirected,1
+Bull Savannah,Alligator Pond,Undirected,1
+Bull Savannah,Bull Savanna,Undirected,1
+Bull Savannah,Malvern,Undirected,1
+Bull Savannah,Mandeville,Undirected,1
+Bull Savannah,Nain,Undirected,1
+Aberdeen,Albert Town,Undirected,1
+Aberdeen,Balaclava,Undirected,1
+Aberdeen,Black River,Undirected,1
+Aberdeen,Cambridge,Undirected,1
+Aberdeen,Christiana,Undirected,1
+Red Bank,Alligator Pond,Undirected,1
+Red Bank,Bull Savanna,Undirected,1
+Red Bank,Lacovia,Undirected,1
+Red Bank,Malvern,Undirected,1
+Red Bank,Mandeville,Undirected,1
+Holland,Balaclava,Undirected,1
+Holland,Black River,Undirected,1
+Holland,Brompton,Undirected,1
+Holland,Lacovia,Undirected,1
+Holland,Maggotty,Undirected,1
+Brighton,Newton,Undirected,1
+Hopeton,Above Rocks,Undirected,1
+Hopeton,Bog Walk,Undirected,1
+Hopeton,Constant Spring,Undirected,1
+Hopeton,Gordon Town,Undirected,1
+Hopeton,Kingston,Undirected,1
+Newton,Brighton,Undirected,1
+West Green,Anchovy,Undirected,1
+West Green,Bethel Town,Undirected,1
+West Green,Cambridge,Undirected,1
+West Green,Cascade,Undirected,1
+West Green,Maroon Town,Undirected,1
+Catherine Hall,Anchovy,Undirected,1
+Catherine Hall,Bethel Town,Undirected,1
+Catherine Hall,Cambridge,Undirected,1
+Catherine Hall,Cascade,Undirected,1
+Catherine Hall,Maroon Town,Undirected,1
+Rose Heights,Anchovy,Undirected,1
+Rose Heights,Bethel Town,Undirected,1
+Rose Heights,Cambridge,Undirected,1
+Rose Heights,Cascade,Undirected,1
+Rose Heights,Falmouth,Undirected,1
+Down Town Montego Bay,Anchovy,Undirected,1
+Down Town Montego Bay,Bethel Town,Undirected,1
+Down Town Montego Bay,Cambridge,Undirected,1
+Down Town Montego Bay,Cascade,Undirected,1
+Down Town Montego Bay,Falmouth,Undirected,1
+Brandon Hill,Anchovy,Undirected,1
+Brandon Hill,Bethel Town,Undirected,1
+Brandon Hill,Cambridge,Undirected,1
+Brandon Hill,Cascade,Undirected,1
+Brandon Hill,Maroon Town,Undirected,1
+Orange,Anchovy,Undirected,1
+Orange,Bethel Town,Undirected,1
+Orange,Cambridge,Undirected,1
+Orange,Cascade,Undirected,1
+Orange,Maroon Town,Undirected,1
+Granville,Anchovy,Undirected,1
+Granville,Bethel Town,Undirected,1
+Granville,Cambridge,Undirected,1
+Granville,Cascade,Undirected,1
+Granville,Maroon Town,Undirected,1
+Bogue,Anchovy,Undirected,1
+Bogue,Bethel Town,Undirected,1
+Bogue,Cambridge,Undirected,1
+Bogue,Cascade,Undirected,1
+Bogue,Darliston,Undirected,1
+Pitfour,Anchovy,Undirected,1
+Pitfour,Bethel Town,Undirected,1
+Pitfour,Cambridge,Undirected,1
+Pitfour,Cascade,Undirected,1
+Pitfour,Darliston,Undirected,1
+Norwood,Anchovy,Undirected,1
+Norwood,Bethel Town,Undirected,1
+Norwood,Cambridge,Undirected,1
+Norwood,Cascade,Undirected,1
+Norwood,Maroon Town,Undirected,1
+Mount Salem,Anchovy,Undirected,1
+Mount Salem,Bethel Town,Undirected,1
+Mount Salem,Cambridge,Undirected,1
+Mount Salem,Cascade,Undirected,1
+Mount Salem,Maroon Town,Undirected,1
+Albion,Anchovy,Undirected,1
+Albion,Bethel Town,Undirected,1
+Albion,Cambridge,Undirected,1
+Albion,Cascade,Undirected,1
+Albion,Maroon Town,Undirected,1
+Flankers,Anchovy,Undirected,1
+Flankers,Bethel Town,Undirected,1
+Flankers,Cambridge,Undirected,1
+Flankers,Cascade,Undirected,1
+Flankers,Maroon Town,Undirected,1
+Unity Hall,Anchovy,Undirected,1
+Unity Hall,Bethel Town,Undirected,1
+Unity Hall,Cambridge,Undirected,1
+Unity Hall,Cascade,Undirected,1
+Unity Hall,Darliston,Undirected,1
+Dumfries,Anchovy,Undirected,1
+Dumfries,Bethel Town,Undirected,1
+Dumfries,Cambridge,Undirected,1
+Dumfries,Clark's Town,Undirected,1
+Dumfries,Falmouth,Undirected,1
+John's Hall,Anchovy,Undirected,1
+John's Hall,Bethel Town,Undirected,1
+John's Hall,Cambridge,Undirected,1
+John's Hall,Darliston,Undirected,1
+John's Hall,Falmouth,Undirected,1
+Catadupa,Anchovy,Undirected,1
+Catadupa,Bethel Town,Undirected,1
+Catadupa,Bluefields,Undirected,1
+Catadupa,Brompton,Undirected,1
+Catadupa,Cambridge,Undirected,1
+Somerton,Anchovy,Undirected,1
+Somerton,Bethel Town,Undirected,1
+Somerton,Cambridge,Undirected,1
+Somerton,Clark's Town,Undirected,1
+Somerton,Falmouth,Undirected,1
+Rose Mount Garden,Anchovy,Undirected,1
+Rose Mount Garden,Bethel Town,Undirected,1
+Rose Mount Garden,Cambridge,Undirected,1
+Rose Mount Garden,Cascade,Undirected,1
+Rose Mount Garden,Maroon Town,Undirected,1
+Barrett Town,Anchovy,Undirected,1
+Barrett Town,Cambridge,Undirected,1
+Barrett Town,Falmouth,Undirected,1
+Barrett Town,Maroon Town,Undirected,1
+Barrett Town,Montego Bay,Undirected,1
+Paradise,Anchovy,Undirected,1
+Paradise,Bethel Town,Undirected,1
+Paradise,Cambridge,Undirected,1
+Paradise,Cascade,Undirected,1
+Paradise,Maroon Town,Undirected,1
+Lilliput,Anchovy,Undirected,1
+Lilliput,Cambridge,Undirected,1
+Lilliput,Clark's Town,Undirected,1
+Lilliput,Falmouth,Undirected,1
+Lilliput,Maroon Town,Undirected,1
+Green Pond,Anchovy,Undirected,1
+Green Pond,Bethel Town,Undirected,1
+Green Pond,Cambridge,Undirected,1
+Green Pond,Falmouth,Undirected,1
+Green Pond,Maroon Town,Undirected,1
+Glendevon,Anchovy,Undirected,1
+Glendevon,Bethel Town,Undirected,1
+Glendevon,Cambridge,Undirected,1
+Glendevon,Cascade,Undirected,1
+Glendevon,Maroon Town,Undirected,1
+Welcome Hall,Anchovy,Undirected,1
+Welcome Hall,Bethel Town,Undirected,1
+Welcome Hall,Cambridge,Undirected,1
+Welcome Hall,Darliston,Undirected,1
+Welcome Hall,Falmouth,Undirected,1
+Farm Heights,Anchovy,Undirected,1
+Farm Heights,Bethel Town,Undirected,1
+Farm Heights,Cambridge,Undirected,1
+Farm Heights,Cascade,Undirected,1
+Farm Heights,Falmouth,Undirected,1
+Maldon,Anchovy,Undirected,1
+Maldon,Bethel Town,Undirected,1
+Maldon,Cambridge,Undirected,1
+Maldon,Cascade,Undirected,1
+Maldon,Maroon Town,Undirected,1
+Retirement,Anchovy,Undirected,1
+Retirement,Bethel Town,Undirected,1
+Retirement,Cambridge,Undirected,1
+Retirement,Cascade,Undirected,1
+Retirement,Darliston,Undirected,1
+Porto Bello,Anchovy,Undirected,1
+Porto Bello,Bethel Town,Undirected,1
+Porto Bello,Cambridge,Undirected,1
+Porto Bello,Cascade,Undirected,1
+Porto Bello,Falmouth,Undirected,1
+Tangle River,Anchovy,Undirected,1
+Tangle River,Bethel Town,Undirected,1
+Tangle River,Cambridge,Undirected,1
+Tangle River,Darliston,Undirected,1
+Tangle River,Falmouth,Undirected,1
+Flower Hill,Anchovy,Undirected,1
+Flower Hill,Bethel Town,Undirected,1
+Flower Hill,Cambridge,Undirected,1
+Flower Hill,Falmouth,Undirected,1
+Flower Hill,Maroon Town,Undirected,1
+Salt Spring,Anchovy,Undirected,1
+Salt Spring,Bethel Town,Undirected,1
+Salt Spring,Cambridge,Undirected,1
+Salt Spring,Cascade,Undirected,1
+Salt Spring,Maroon Town,Undirected,1
+Rosemount,Anchovy,Undirected,1
+Rosemount,Bethel Town,Undirected,1
+Rosemount,Cambridge,Undirected,1
+Rosemount,Cascade,Undirected,1
+Rosemount,Maroon Town,Undirected,1
+Niagara,Anchovy,Undirected,1
+Niagara,Balaclava,Undirected,1
+Niagara,Bethel Town,Undirected,1
+Niagara,Bluefields,Undirected,1
+Niagara,Cambridge,Undirected,1
+Coral Gardens,Anchovy,Undirected,1
+Coral Gardens,Bethel Town,Undirected,1
+Coral Gardens,Cambridge,Undirected,1
+Coral Gardens,Falmouth,Undirected,1
+Coral Gardens,Maroon Town,Undirected,1
+Tucker,Anchovy,Undirected,1
+Tucker,Bethel Town,Undirected,1
+Tucker,Cambridge,Undirected,1
+Tucker,Cascade,Undirected,1
+Tucker,Falmouth,Undirected,1
+Ironshore,Anchovy,Undirected,1
+Ironshore,Bethel Town,Undirected,1
+Ironshore,Cambridge,Undirected,1
+Ironshore,Cascade,Undirected,1
+Ironshore,Maroon Town,Undirected,1
+Adelphi,Anchovy,Undirected,1
+Adelphi,Bethel Town,Undirected,1
+Adelphi,Cambridge,Undirected,1
+Adelphi,Clark's Town,Undirected,1
+Adelphi,Falmouth,Undirected,1
+Montpelier,Anchovy,Undirected,1
+Montpelier,Bethel Town,Undirected,1
+Montpelier,Bluefields,Undirected,1
+Montpelier,Cambridge,Undirected,1
+Montpelier,Cascade,Undirected,1
+Summer Hill,Anchovy,Undirected,1
+Summer Hill,Cambridge,Undirected,1
+Summer Hill,Falmouth,Undirected,1
+Summer Hill,Maroon Town,Undirected,1
+Summer Hill,Montego Bay,Undirected,1
+Mount Carey,Anchovy,Undirected,1
+Mount Carey,Bethel Town,Undirected,1
+Mount Carey,Cambridge,Undirected,1
+Mount Carey,Cascade,Undirected,1
+Mount Carey,Darliston,Undirected,1
+Reading,Anchovy,Undirected,1
+Reading,Bethel Town,Undirected,1
+Reading,Cambridge,Undirected,1
+Reading,Cascade,Undirected,1
+Reading,Darliston,Undirected,1
+Irwin,Anchovy,Undirected,1
+Irwin,Bethel Town,Undirected,1
+Irwin,Cambridge,Undirected,1
+Irwin,Cascade,Undirected,1
+Irwin,Maroon Town,Undirected,1
+Spot Valley,Anchovy,Undirected,1
+Spot Valley,Cambridge,Undirected,1
+Spot Valley,Falmouth,Undirected,1
+Spot Valley,Maroon Town,Undirected,1
+Spot Valley,Montego Bay,Undirected,1
+Catherine Mount,Anchovy,Undirected,1
+Catherine Mount,Bethel Town,Undirected,1
+Catherine Mount,Cambridge,Undirected,1
+Catherine Mount,Cascade,Undirected,1
+Catherine Mount,Maroon Town,Undirected,1
+Friendship,Anchovy,Undirected,1
+Friendship,Bethel Town,Undirected,1
+Friendship,Cambridge,Undirected,1
+Friendship,Cascade,Undirected,1
+Friendship,Maroon Town,Undirected,1
+Montego Hill,Anchovy,Undirected,1
+Montego Hill,Bethel Town,Undirected,1
+Montego Hill,Cambridge,Undirected,1
+Montego Hill,Cascade,Undirected,1
+Montego Hill,Falmouth,Undirected,1
+Flamstead,Anchovy,Undirected,1
+Flamstead,Bethel Town,Undirected,1
+Flamstead,Cambridge,Undirected,1
+Flamstead,Darliston,Undirected,1
+Flamstead,Maggotty,Undirected,1
+Tower Hill/Moy Hall,Anchovy,Undirected,1
+Tower Hill/Moy Hall,Bethel Town,Undirected,1
+Tower Hill/Moy Hall,Cambridge,Undirected,1
+Tower Hill/Moy Hall,Darliston,Undirected,1
+Tower Hill/Moy Hall,Falmouth,Undirected,1
+Castleton,Above Rocks,Undirected,1
+Castleton,Annotto Bay,Undirected,1
+Castleton,Bog Walk,Undirected,1
+Castleton,Buff Bay,Undirected,1
+Castleton,Constant Spring,Undirected,1
+Galina,Annotto Bay,Undirected,1
+Galina,Gayle,Undirected,1
+Galina,Guy's Hill,Undirected,1
+Galina,Highgate,Undirected,1
+Galina,Islington,Undirected,1
+Enfield,Above Rocks,Undirected,1
+Enfield,Annotto Bay,Undirected,1
+Enfield,Buff Bay,Undirected,1
+Enfield,Constant Spring,Undirected,1
+Enfield,Gordon Town,Undirected,1
+Guys Hill,Above Rocks,Undirected,1
+Guys Hill,Annotto Bay,Undirected,1
+Guys Hill,Bog Walk,Undirected,1
+Guys Hill,Claremont,Undirected,1
+Guys Hill,Ewarton,Undirected,1
+Martin,Above Rocks,Undirected,1
+Martin,Annotto Bay,Undirected,1
+Martin,Buff Bay,Undirected,1
+Martin,Ewarton,Undirected,1
+Martin,Gayle,Undirected,1
+Epson,Above Rocks,Undirected,1
+Epson,Annotto Bay,Undirected,1
+Epson,Buff Bay,Undirected,1
+Epson,Constant Spring,Undirected,1
+Epson,Gordon Town,Undirected,1
+Baileys Vale,Annotto Bay,Undirected,1
+Baileys Vale,Gayle,Undirected,1
+Baileys Vale,Guy's Hill,Undirected,1
+Baileys Vale,Highgate,Undirected,1
+Baileys Vale,Islington,Undirected,1
+Clonmel,Above Rocks,Undirected,1
+Clonmel,Annotto Bay,Undirected,1
+Clonmel,Bog Walk,Undirected,1
+Clonmel,Buff Bay,Undirected,1
+Clonmel,Constant Spring,Undirected,1
+Font Hill,Bath,Undirected,1
+Font Hill,Easington,Undirected,1
+Font Hill,Golden Grove,Undirected,1
+Font Hill,Gordon Town,Undirected,1
+Font Hill,Mavis Bank,Undirected,1
+Duckenfield,Bath,Undirected,1
+Duckenfield,Dalvey,Undirected,1
+Duckenfield,Golden Grove,Undirected,1
+Duckenfield,Manchioneal,Undirected,1
+Duckenfield,Moore Town,Undirected,1
+Church Corner,Bath,Undirected,1
+Church Corner,Dalvey,Undirected,1
+Church Corner,Easington,Undirected,1
+Church Corner,Golden Grove,Undirected,1
+Church Corner,Manchioneal,Undirected,1
+Port Morant,Bath,Undirected,1
+Port Morant,Dalvey,Undirected,1
+Port Morant,Golden Grove,Undirected,1
+Port Morant,Manchioneal,Undirected,1
+Port Morant,Moore Town,Undirected,1
+White Horses,Bath,Undirected,1
+White Horses,Dalvey,Undirected,1
+White Horses,Easington,Undirected,1
+White Horses,Golden Grove,Undirected,1
+White Horses,Moore Town,Undirected,1
+Retreat,Bath,Undirected,1
+Retreat,Dalvey,Undirected,1
+Retreat,Easington,Undirected,1
+Retreat,Golden Grove,Undirected,1
+Retreat,Manchioneal,Undirected,1
+Wilmington,Anchovy,Undirected,1
+Wilmington,Bethel Town,Undirected,1
+Wilmington,Cambridge,Undirected,1
+Wilmington,Darliston,Undirected,1
+Wilmington,Falmouth,Undirected,1
+Barking Lodge,Bath,Undirected,1
+Barking Lodge,Dalvey,Undirected,1
+Barking Lodge,Golden Grove,Undirected,1
+Barking Lodge,Manchioneal,Undirected,1
+Barking Lodge,Moore Town,Undirected,1
+Amity Hall,Bath,Undirected,1
+Amity Hall,Dalvey,Undirected,1
+Amity Hall,Golden Grove,Undirected,1
+Amity Hall,Manchioneal,Undirected,1
+Amity Hall,Moore Town,Undirected,1
+Salt Marsh,Clark's Town,Undirected,1
+Salt Marsh,Duncans,Undirected,1
+Salt Marsh,Falmouth,Undirected,1
+Salt Marsh,Maroon Town,Undirected,1
+Salt Marsh,Montego Bay,Undirected,1
+Bounty Hall,Albert Town,Undirected,1
+Bounty Hall,Anchovy,Undirected,1
+Bounty Hall,Cambridge,Undirected,1
+Bounty Hall,Clark's Town,Undirected,1
+Bounty Hall,Duncans,Undirected,1
+Clarks Town,Albert Town,Undirected,1
+Clarks Town,Alexandria,Undirected,1
+Clarks Town,Brown's Town,Undirected,1
+Clarks Town,Cave Valley,Undirected,1
+Clarks Town,Clark's Town,Undirected,1
+Deeside,Albert Town,Undirected,1
+Deeside,Balaclava,Undirected,1
+Deeside,Clark's Town,Undirected,1
+Deeside,Coleyville,Undirected,1
+Deeside,Duncans,Undirected,1
+Bunkers Hill,Above Rocks,Undirected,1
+Bunkers Hill,Annotto Bay,Undirected,1
+Bunkers Hill,Bog Walk,Undirected,1
+Bunkers Hill,Constant Spring,Undirected,1
+Bunkers Hill,Ewarton,Undirected,1
+Alps,Albert Town,Undirected,1
+Alps,Alexandria,Undirected,1
+Alps,Balaclava,Undirected,1
+Alps,Brown's Town,Undirected,1
+Alps,Cave Valley,Undirected,1
+Duanvale,Albert Town,Undirected,1
+Duanvale,Brown's Town,Undirected,1
+Duanvale,Clark's Town,Undirected,1
+Duanvale,Coleyville,Undirected,1
+Duanvale,Discovery Bay (Dry Harbour),Undirected,1
+Kinloss,Albert Town,Undirected,1
+Kinloss,Alexandria,Undirected,1
+Kinloss,Brown's Town,Undirected,1
+Kinloss,Cave Valley,Undirected,1
+Kinloss,Clark's Town,Undirected,1
+Martha Brae,Albert Town,Undirected,1
+Martha Brae,Clark's Town,Undirected,1
+Martha Brae,Duncans,Undirected,1
+Martha Brae,Falmouth,Undirected,1
+Martha Brae,Maroon Town,Undirected,1
+Sherwood Content,Albert Town,Undirected,1
+Sherwood Content,Balaclava,Undirected,1
+Sherwood Content,Clark's Town,Undirected,1
+Sherwood Content,Coleyville,Undirected,1
+Sherwood Content,Duncans,Undirected,1
+Samuels Prospect,Albert Town,Undirected,1
+Samuels Prospect,Balaclava,Undirected,1
+Samuels Prospect,Clark's Town,Undirected,1
+Samuels Prospect,Coleyville,Undirected,1
+Samuels Prospect,Duncans,Undirected,1
+Daniel Town,Albert Town,Undirected,1
+Daniel Town,Clark's Town,Undirected,1
+Daniel Town,Discovery Bay (Dry Harbour),Undirected,1
+Daniel Town,Duncans,Undirected,1
+Daniel Town,Falmouth,Undirected,1
+Jackson Town,Albert Town,Undirected,1
+Jackson Town,Alexandria,Undirected,1
+Jackson Town,Bamboo,Undirected,1
+Jackson Town,Brown's Town,Undirected,1
+Jackson Town,Cave Valley,Undirected,1
+Spicy Hill,Albert Town,Undirected,1
+Spicy Hill,Brown's Town,Undirected,1
+Spicy Hill,Clark's Town,Undirected,1
+Spicy Hill,Discovery Bay (Dry Harbour),Undirected,1
+Spicy Hill,Duncans,Undirected,1
+Hampden,Anchovy,Undirected,1
+Hampden,Cambridge,Undirected,1
+Hampden,Clark's Town,Undirected,1
+Hampden,Duncans,Undirected,1
+Hampden,Falmouth,Undirected,1
+Orange Hill,Anchovy,Undirected,1
+Orange Hill,Bethel Town,Undirected,1
+Orange Hill,Bluefields,Undirected,1
+Orange Hill,Brompton,Undirected,1
+Orange Hill,Cambridge,Undirected,1
+Jerusalem,Cascade,Undirected,1
+Jerusalem,Frome,Undirected,1
+Jerusalem,Grange Hill,Undirected,1
+Jerusalem,Hopewell,Undirected,1
+Jerusalem,Little London,Undirected,1
+Burnt Savannah,Anchovy,Undirected,1
+Burnt Savannah,Bethel Town,Undirected,1
+Burnt Savannah,Bluefields,Undirected,1
+Burnt Savannah,Cambridge,Undirected,1
+Burnt Savannah,Cascade,Undirected,1
+Haddo,Anchovy,Undirected,1
+Haddo,Bethel Town,Undirected,1
+Haddo,Bluefields,Undirected,1
+Haddo,Cambridge,Undirected,1
+Haddo,Cascade,Undirected,1
+Savannah-la-mar Business Dist.,Bethel Town,Undirected,1
+Savannah-la-mar Business Dist.,Bluefields,Undirected,1
+Savannah-la-mar Business Dist.,Cascade,Undirected,1
+Savannah-la-mar Business Dist.,Darliston,Undirected,1
+Savannah-la-mar Business Dist.,Frome,Undirected,1
+Smithfield,Bethel Town,Undirected,1
+Smithfield,Bluefields,Undirected,1
+Smithfield,Cascade,Undirected,1
+Smithfield,Darliston,Undirected,1
+Smithfield,Frome,Undirected,1
+Georges Plain,Bethel Town,Undirected,1
+Georges Plain,Bluefields,Undirected,1
+Georges Plain,Cascade,Undirected,1
+Georges Plain,Darliston,Undirected,1
+Georges Plain,Frome,Undirected,1
+Fort Williams,Anchovy,Undirected,1
+Fort Williams,Bethel Town,Undirected,1
+Fort Williams,Bluefields,Undirected,1
+Fort Williams,Cambridge,Undirected,1
+Fort Williams,Cascade,Undirected,1
+Paul Island,Cascade,Undirected,1
+Paul Island,Frome,Undirected,1
+Paul Island,Grange Hill,Undirected,1
+Paul Island,Hopewell,Undirected,1
+Paul Island,Little London,Undirected,1
+Town Head,Anchovy,Undirected,1
+Town Head,Bethel Town,Undirected,1
+Town Head,Bluefields,Undirected,1
+Town Head,Cascade,Undirected,1
+Town Head,Darliston,Undirected,1
+Hertford,Anchovy,Undirected,1
+Hertford,Bethel Town,Undirected,1
+Hertford,Bluefields,Undirected,1
+Hertford,Cambridge,Undirected,1
+Hertford,Cascade,Undirected,1
+Shefield,Frome,Undirected,1
+Shefield,Grange Hill,Undirected,1
+Shefield,Hopewell,Undirected,1
+Shefield,Little London,Undirected,1
+Shefield,Lucea,Undirected,1
+Truro,Bethel Town,Undirected,1
+Truro,Bluefields,Undirected,1
+Truro,Cascade,Undirected,1
+Truro,Darliston,Undirected,1
+Truro,Frome,Undirected,1
+Strathbogie,Bethel Town,Undirected,1
+Strathbogie,Bluefields,Undirected,1
+Strathbogie,Cascade,Undirected,1
+Strathbogie,Darliston,Undirected,1
+Strathbogie,Frome,Undirected,1
+Llandilo,Bethel Town,Undirected,1
+Llandilo,Bluefields,Undirected,1
+Llandilo,Cascade,Undirected,1
+Llandilo,Darliston,Undirected,1
+Llandilo,Frome,Undirected,1
+Cave,Bethel Town,Undirected,1
+Cave,Bluefields,Undirected,1
+Cave,Brompton,Undirected,1
+Cave,Cambridge,Undirected,1
+Cave,Cascade,Undirected,1
+Mount Airy,Frome,Undirected,1
+Mount Airy,Grange Hill,Undirected,1
+Mount Airy,Hopewell,Undirected,1
+Mount Airy,Little London,Undirected,1
+Mount Airy,Negril,Undirected,1
+Delveland,Bluefields,Undirected,1
+Delveland,Cascade,Undirected,1
+Delveland,Frome,Undirected,1
+Delveland,Grange Hill,Undirected,1
+Delveland,Hopewell,Undirected,1
+Mackfield,Bethel Town,Undirected,1
+Mackfield,Bluefields,Undirected,1
+Mackfield,Cascade,Undirected,1
+Mackfield,Darliston,Undirected,1
+Mackfield,Frome,Undirected,1
+Gooden's River,Bethel Town,Undirected,1
+Gooden's River,Bluefields,Undirected,1
+Gooden's River,Cascade,Undirected,1
+Gooden's River,Darliston,Undirected,1
+Gooden's River,Frome,Undirected,1
+Chantilly,Bethel Town,Undirected,1
+Chantilly,Bluefields,Undirected,1
+Chantilly,Cascade,Undirected,1
+Chantilly,Darliston,Undirected,1
+Chantilly,Frome,Undirected,1
+Whithorn,Anchovy,Undirected,1
+Whithorn,Bethel Town,Undirected,1
+Whithorn,Bluefields,Undirected,1
+Whithorn,Cambridge,Undirected,1
+Whithorn,Cascade,Undirected,1
+Broughton,Bluefields,Undirected,1
+Broughton,Cascade,Undirected,1
+Broughton,Frome,Undirected,1
+Broughton,Grange Hill,Undirected,1
+Broughton,Hopewell,Undirected,1
+Whitehouse,Bethel Town,Undirected,1
+Whitehouse,Black River,Undirected,1
+Whitehouse,Bluefields,Undirected,1
+Whitehouse,Brompton,Undirected,1
+Whitehouse,Darliston,Undirected,1
+Mount Stewart,Anchovy,Undirected,1
+Mount Stewart,Bethel Town,Undirected,1
+Mount Stewart,Bluefields,Undirected,1
+Mount Stewart,Cambridge,Undirected,1
+Mount Stewart,Cascade,Undirected,1
+Seaton Crescent,Bethel Town,Undirected,1
+Seaton Crescent,Bluefields,Undirected,1
+Seaton Crescent,Cascade,Undirected,1
+Seaton Crescent,Darliston,Undirected,1
+Seaton Crescent,Frome,Undirected,1
+Three Mile River,Bethel Town,Undirected,1
+Three Mile River,Bluefields,Undirected,1
+Three Mile River,Cascade,Undirected,1
+Three Mile River,Darliston,Undirected,1
+Three Mile River,Frome,Undirected,1
+Cornwall Mountian,Anchovy,Undirected,1
+Cornwall Mountian,Bethel Town,Undirected,1
+Cornwall Mountian,Bluefields,Undirected,1
+Cornwall Mountian,Cambridge,Undirected,1
+Cornwall Mountian,Cascade,Undirected,1
+Fullersfield,Bluefields,Undirected,1
+Fullersfield,Cascade,Undirected,1
+Fullersfield,Frome,Undirected,1
+Fullersfield,Grange Hill,Undirected,1
+Fullersfield,Hopewell,Undirected,1
